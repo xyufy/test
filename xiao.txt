@@ -1,0 +1,1486 @@
+央视,#genre#
+CCTV1,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+CCTV2,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
+CCTV3,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
+CCTV4,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
+CCTV5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
+CCTV5,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
+CCTV6,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
+CCTV7,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
+CCTV8,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
+CCTV9,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
+CCTV10,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
+
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8?
+
+CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
+CCTV13,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
+CCTV14,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
+CCTV15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8?$8M1080
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+
+CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
+
+CCTV1,https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
+CCTV2,https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
+CCTV3,https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
+CCTV4,https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
+CCTV5,https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
+CCTV6,https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
+CCTV7,https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
+CCTV8,https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
+CCTV9,https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
+CCTV10,https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
+CCTV12,https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=cctv13HD
+CCTV14,https://live.goodiptv.club/api/cqyx.php?id=cctv14HD
+CCTV15,https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
+CCTV16,https://live.goodiptv.club/api/cqyx.php?id=cctv16HD
+CCTV17,https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
+CCTV5+,https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
+CCTV4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
+CCTV16 4K,https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
+
+
+CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+CCTV8,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
+CCTV9,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV4,http://jycb.f3322.net:85/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://jycb.f3322.net:85/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+CCTV01,http://120.196.232.20:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
+CCTV02,http://120.196.232.54:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV03,http://120.196.232.50:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV04,http://120.196.232.27:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV05,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV05+++,http://120.196.232.51:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV06,http://120.196.232.26:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV07,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+CCTV08,http://120.196.232.17:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+CCTV09,http://120.196.232.35:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV10,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+CCTV11,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV12,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+CCTV13,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+CCTV14,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+CCTV15,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
+CCTV16,http://120.196.232.16:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV17,http://120.196.232.44:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+
+
+CCTV1*超清,http://120.196.232.49:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV1*超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel1/index.m3u8
+CCTV2*超清,http://120.196.232.53:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226739/1.m3u8
+CCTV2*超清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
+CCTV3*超清,http://120.196.232.49:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
+CCTV3*超清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
+CCTV4*超清,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226725/1.m3u8
+CCTV4*超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
+CCTV5*超清,http://120.196.232.31:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226731/1.m3u8
+CCTV5*超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
+CCTV5*+-++,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226711/1.m3u8
+CCTV5*+-++,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+CCTV5*赛事,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+CCTV6*超清,http://120.196.232.25:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3u8
+CCTV6*超清,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
+CCTV7*超清,http://120.196.232.32:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226721/1.m3u8
+CCTV7*超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
+CCTV8*超清,http://120.196.232.18:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+CCTV8*超清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
+CCTV9*超清,http://120.196.232.36:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226651/1.m3u8
+CCTV9*超清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
+CCTV10超清,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226708/1.m3u8
+CCTV10超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel10/index.m3u8
+CCTV11超清,http://120.196.232.55:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226714/1.m3u8
+CCTV11超清,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
+CCTV12超清,http://120.196.232.52:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226723/1.m3u8
+CCTV12超清,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
+CCTV13超清,http://120.196.232.22:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226717/1.m3u8
+CCTV13超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
+CCTV14超清,http://120.196.232.28:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226645/1.m3u8
+CCTV14超清,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
+CCTV15超清,http://120.196.232.38:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226648/1.m3u8
+CCTV15超清,http://223.109.210.41/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
+CCTV16超清,http://120.196.232.15:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+CCTV16超清,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
+CCTV17超清,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
+CCTV17超清,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
+
+
+CCTV01,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3831204341_1349411946/wd_r2/cctv/cctv1hd/2500/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115080246&ContentId=265183188&timezone=UTC&mtv_session=01b97ad3f1d61532d8f0d40578ee3f47&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=ac6f75650a73ab06efc36233598f26b8
+CCTV02,http://hms104nc1972679566.live.aikan.miguvideo.com/wh7f454c46tw3468827325_440542616/wd_r2/cctv/cctv2hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208125733&ContentId=265667329&timezone=UTC&mtv_session=f739dcaed0e05c0e9e14fa47d0810c20&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=c4d54a337744e33e655349fe312a5eed
+CCTV03,http://hms44nc1972679560.live.aikan.miguvideo.com/wh7f454c46tw3692367231_1716696590/wd_r2/ocn/cctv3hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130116&ContentId=265667206&timezone=UTC&mtv_session=09b9584da7231a3b6c6b2c20aa3572d6&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=f9cf165e747cb07e1e8dd89226e53387
+CCTV04,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw3805527088_-1274597418/wd_r2/cctv/cctv4hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130309&ContentId=265667639&timezone=UTC&mtv_session=2dd2ab7bfb6b74ffa7cc9e8d7b6e5ed2&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=d34ff8f1c5a38b07fa8b2d3d15e755a2
+CCTV05,http://111.20.40.173/PLTV/88888893/224/3221226395/index.m3u8
+CCTV05,http://hms304nc1972679586.live.aikan.miguvideo.com/wh7f454c46tw3939139141_-877857276/wd_r2/cctv/cctv5hdnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130523&ContentId=265667565&timezone=UTC&mtv_session=e95834282573288096f63eab8a028447&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=12a070f46793605fdbff0e1132d2d0d8
+CCTV05+++,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
+CCTV06,http://hms424nc1972679598.live.aikan.miguvideo.com/wh7f454c46tw2025729208_-189538202/wd_r2/ocn/cctv6hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084415&ContentId=265667482&timezone=UTC&mtv_session=0ac4193cdf07336c58fe3cdb4aac34a4&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=158f70fd4d75270c1810f0c735e78e18
+CCTV07,http://hms284nc1972679584.live.aikan.miguvideo.com/wh7f454c46tw4211155753_-1040212167/migu/kailu/20200324/cctv7hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130955&ContentId=265667268&timezone=UTC&mtv_session=f4a3cbeaf77fa614aed3843cb206bc06&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=38b55b6566aab32075f6169e2d955603
+CCTV08,http://hms84nc1972679564.live.aikan.miguvideo.com/wh7f454c46tw2243817462_1836799824/wd_r2/ocn/cctv8hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115084753&ContentId=265667466&timezone=UTC&mtv_session=077374df50cdebf0ab55b2ec30d2f01a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8b9b358180e9e344fe45e67912ce6985
+CCTV09,http://hms444nc1972679601.live.aikan.miguvideo.com/wh7f454c46tw4260577431_-1084507862/migu/kailu/20200324/cctv9hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208131044&ContentId=265667202&timezone=UTC&mtv_session=9444a4df4cb7524a1ec85c4d44200abc&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=efdbccd2a72ff1ba2eabbf08f475f7c6
+CCTV10,http://hms424nc1972679599.live.aikan.miguvideo.com/wh7f454c46tw2383135402_1265174830/wd_r2/ocn/cctv10hd/3000/01.m3u8?msisdn=19115966146&Channel_ID=0119_04102000-99000_400300000040002&client_ip=182.149.232.3&timestamp=20230115085013&ContentId=265667631&timezone=UTC&mtv_session=451a79654bec6f8926b5017302146772&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=e74690616e29be77ff1a1992b303b861
+CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+CCTV11,http://59.47.226.94:8880/sql/2602/hls.m3u8
+CCTV12,http://hms204nc1972679577.live.aikan.miguvideo.com/wh7f454c46tw1174495643_-1245391177/migu/kailu/20200324/cctv12hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020243&ContentId=265667607&timezone=UTC&mtv_session=7581c6271c0379b8ca8b268ff7804765&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=3906a8574a42ff13aba3e255be4cd8e3
+CCTV13,http://hms184nc1972679575.live.aikan.miguvideo.com/wh7f454c46tw946205927_-649996709/envivo_x/2018/SD/cctv13/2000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208132705&ContentId=265667474&timezone=UTC&mtv_session=36bf599c0c4bc785fd46aaf0ba40ffe7&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=91a8a1c4652526079a5b0e294d5bc18d
+CCTV14,http://hms344nc1972679590.live.aikan.miguvideo.com/wh7f454c46tw1297666621_-728046298/wd_r2/ocn/cctv14hd/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020446&ContentId=265667325&timezone=UTC&mtv_session=ad6cfd6b6dabe31801ca54a4c87f1bac&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=2757ab80a8dee98edfcfd1ee767a17b8
+CCTV15,http://hms504nc1972679606.live.aikan.miguvideo.com/wh7f454c46tw1387986390_1468621622/migu/kailu/20200324/cctv15hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=59.49.185.88&timestamp=20230311020617&ContentId=265667535&timezone=UTC&mtv_session=e1254803553b7cace3a119612bf266d8&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ba98a3a39d853487109bebe5ed31c43
+CCTV16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
+CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
+CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/cctv17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
+
+地方,#genre#
+浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+
+湖南卫视,https://live.goodiptv.club/api/cqyx.php?id=hunanHD
+重庆卫视,https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
+江苏卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
+北京卫视,https://live.goodiptv.club/api/cqyx.php?id=beijingHD
+浙江卫视,https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
+东方卫视,https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
+深圳卫视,https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
+辽宁卫视,https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
+天津卫视,https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
+贵州卫视,https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
+四川卫视,https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
+东南卫视,https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
+黑龙江卫视,https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
+江西卫视,https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
+吉林卫视,https://live.goodiptv.club/api/cqyx.php?id=jilinHD
+广西卫视,https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
+广东卫视,https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
+东南卫视,https://live.goodiptv.club/api/cqyx.php?id=henanHD
+第一剧场,https://live.goodiptv.club/api/cqyx.php?id=diyijuchangHD
+都市剧场,https://live.goodiptv.club/api/cqyx.php?id=dsjcHD
+动漫秀场,https://live.goodiptv.club/api/cqyx.php?id=dmxcHD
+魅力足球,https://live.goodiptv.club/api/cqyx.php?id=mlzqHD
+风云剧场,https://live.goodiptv.club/api/cqyx.php?id=fyjcHD
+求索纪录,https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+兵器科技,https://live.goodiptv.club/api/cqyx.php?id=bqkjHD
+游戏风云,https://live.goodiptv.club/api/cqyx.php?id=yxfyHD
+怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
+风云音乐,https://live.goodiptv.club/api/cqyx.php?id=fyyyHD
+央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+风云足球,https://live.goodiptv.club/api/cqyx.php?id=fyzqHD
+文化精品,https://live.goodiptv.club/api/cqyx.php?id=yswhHD
+高尔夫网球,https://live.goodiptv.club/api/cqyx.php?id=golfHD
+早期教育,https://live.goodiptv.club/api/cqyx.php?id=zaojiaoHD
+
+
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
+三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+
+
+北京卫视,https://video.lzjtu.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/index.m3u8
+湖北卫视,https://video.lzjtu.edu.cn/liverespath/a8e4cf2bade25844b998d7743d83331412ea841f/index.m3u8
+湖南卫视,https://video.lzjtu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8
+天津卫视,https://video.lzjtu.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/index.m3u8
+东南卫视,https://video.lzjtu.edu.cn/liverespath/7a202b5f39c56db4ca3ca7a3dc21b073c9bc472a/index.m3u8
+广东卫视,https://video.lzjtu.edu.cn/liverespath/57e80ee85ec1f4e523e1bca55f5a676abd292db8/index.m3u8
+重庆卫视,https://video.lzjtu.edu.cn/liverespath/b14734af7f740eb61419248c57e25551a7d1093f/index.m3u8
+广西卫视,https://video.lzjtu.edu.cn/liverespath/15f9ffc8f72eb7f7ddfe79669f246e4db4acc3c1/index.m3u8
+广西卫视,http://live.gxrb.com.cn/tv/gxtvlive03/index.m3u8
+浙江卫视,https://video.lzjtu.edu.cn/liverespath/f650ba03bb4883fe67a1fb7c193a00a4c0c93881/index.m3u8
+四川卫视,https://video.lzjtu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8
+江西卫视,https://video.lzjtu.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/index.m3u8
+江苏卫视,https://video.lzjtu.edu.cn/liverespath/0be64515076e489456de2f33e7b58ff1b392d3b3/index.m3u8
+陕西卫视,https://video.lzjtu.edu.cn/liverespath/ebc9ec3e297c071df95d759b6313b9d9dbc3dbda/index.m3u8
+四川卫视,https://video.lzjtu.edu.cn/liverespath/ca3f021632b48e6960797776657926074723d276/index.m3u8
+河北卫视,https://video.lzjtu.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/index.m3u8
+山西卫视,https://video.lzjtu.edu.cn/liverespath/74908123d020c1a9f55e8a9652973187bcd07970/index.m3u8
+山东卫视,https://video.lzjtu.edu.cn/liverespath/8b205af319dcc92c60a69a96423af21b24a29ca0/index.m3u8
+安徽卫视,https://video.lzjtu.edu.cn/liverespath/6e91e17de838dbf7c77f9ed8e41726bd4a1516f5/index.m3u8
+河南卫视,https://video.lzjtu.edu.cn/liverespath/4bc76db1677c6cd2176e652ed6fc1cd44d8c297b/index.m3u8
+吉林卫视,http://hls1.avap.jilintv.cn/zqvk7vpj/channel/0533b55e42354f4f802bdec78e26b571/1.m3u8
+宁夏卫视,https://video.lzjtu.edu.cn/liverespath/eefad27700cf7ea30b4f5145f0b8d466a27c1478/index.m3u8
+云南卫视,https://video.lzjtu.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/index.m3u8
+海南卫视,https://video.lzjtu.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/index.m3u8
+贵州卫视,https://video.lzjtu.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/index.m3u8
+甘肃卫视,https://video.lzjtu.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/index.m3u8
+内蒙古台,https://video.lzjtu.edu.cn/liverespath/5a601b122fcaacb6480b65cb74ee8f76347020d6/index.m3u8
+辽宁卫视,https://video.lzjtu.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/index.m3u8
+黑龙江台,https://video.lzjtu.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/index.m3u8
+青海卫视,https://video.lzjtu.edu.cn/liverespath/468aa6e90a67946eeb0e862e4b9f2764ee13cc75/index.m3u8
+新疆卫视,https://video.lzjtu.edu.cn/liverespath/d75bf52e702ca0fb44344fc2e86e7675ac112ec7/index.m3u8
+西藏卫视,https://video.lzjtu.edu.cn/liverespath/223db5dc75cab2536cbebcda8e6730ff6bf58309/index.m3u8
+
+
+
+深圳卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226688/1.m3u8
+浙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226690/1.m3u8
+湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
+江苏卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226692/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226655/1.m3u8
+安徽卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226664/1.m3u8
+北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
+东方卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226734/1.m3u8
+东南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226670/1.m3u8
+贵州卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226672/1.m3u8
+海南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226679/1.m3u8
+湖北卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226713/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226682/1.m3u8
+江西卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226726/1.m3u8
+辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
+龙江卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226716/1.m3u8
+山东卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226693/1.m3u8
+天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
+重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
+延边频道,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+青海频道,http://stream.qhbtv.com/qhws/sd/live.m3u8
+河北频道,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
+
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+深圳卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225752/index.m3u8
+湖北卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225760/index.m3u8
+天津卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225765/index.m3u8
+海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+重庆卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
+贵州卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
+江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
+河北卫视,http://event.pull.hebtv.com/jishi/weishipindao.m3u8
+西藏卫视,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/xzws/2500000/mnf.m3u8
+新疆卫视,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+
+香港,#genre#
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+翡翠台,http://r.jdshipin.com/qrfbg
+明珠台,http://r.jdshipin.com/ZQ4kN
+凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+凤凰香港,http://113.117.74.29:8081/hls/38/index.m3u8
+
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港J2频道,http://r.jdshipin.com/Nr5jq
+RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8
+澳门莲花,https://cntv.sbs/tv/lhws.php
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
+
+
+
+凤凰中文,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8$春盈高清
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/2300.m3u8$春盈线路
+凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8$春盈天下
+凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8$春盈1080窄
+凤凰资讯,http://223.109.210.41/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8$春盈高清
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/2300.m3u8$春盈线路
+凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8$春盈天下
+凤凰资讯,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8$春盈1080窄
+无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
+凤凰香港,http://ilive.fengshows.cn/live/0701phk36.m3u8?txSecret=c98536863f41963ccbb6a62b92ca827a&txTime=655959ee
+凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8
+高清翡翠,http://r.jdshipin.com/qClQf
+高清翡翠,http://r.jdshipin.com/n90gt
+高清翡翠,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+明珠频道,http://r.jdshipin.com/ZQ4kN
+明珠频道,http://bziyunshao.synology.me:8890/bysid/2
+j2高清台,http://198.16.100.90:8278/j2_twn/playlist.m3u8?tid=MFCF3274854132748541&ct=19254&tsum=699466c18aac56202ad1d2843fd21032
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港34台,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+中国教育,http://183.250.157.35:8880/tsfile/live/1000_1.m3u8
+EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+澳門莲花,https://p.ggiptv.com/v/macaulotustv.php
+4k👉修复,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+⑥港集专线直播,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
+⑥香港21:30彩家,https://blxmmo.dhrfkxq.cn/live/new33666mo.m3u8
+⑥香港21:3017网,https://ccc.yztsqwr.cn/live/629.m3u8
+⑥香港21:30j2网,rtmp://bbb.yztsqwr.cn/live/kkk
+@新澳21:30彩家,https://blxmmo.fgeege.com/live/new33666mo.m3u8
+@新澳21:30四九,https://play666.macau-lhc.live/live/mosixmark.flv
+@新澳21:30官方,https://play888.00853lhc.live/live/mosixmark.flv
+@老澳21:32彩家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
+@老澳21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
+@老澳21:32播放,https://aa.jmied.com/aa/aa.flv?auth_key=1661059701-0-0-18edbe2ace26cc97f5e86aaee951497e
+@老澳21:32官方,https://vdm6-hwnon.ntnftchain.com/live/2032-2.flv
+浙江,#genre#
+义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
+之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel12/1080p.m3u8
+
+浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
+浙江经济生活,http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
+浙江影视娱乐,http://hw-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+浙江新闻,http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
+浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
+之江纪录,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
+
+HTV-2明珠,http://183.129.242.178:3333/tsfile/live/1016_1.m3u8
+HTV-3生活,http://183.129.242.178:3333/tsfile/live/1017_1.m3u8
+HTV-4影视,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+HTV-5青少.体育,http://183.129.242.178:3333/tsfile/live/1019_1.m3u8
+
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
+绍兴文化影院,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+
+武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
+平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
+平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
+萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
+淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
+淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
+余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
+余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
+余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
+嵊州新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
+嵊州新闻综合,https://hlsv2.quklive.com/live/1626935015913208/index.m3u8?zzhed
+诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
+上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
+上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
+上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
+海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
+海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
+兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
+专区,#genre#
+CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
+CCTV5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
+CCTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+CCTV6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+CCTV7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+CCTV8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
+CCTV9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+CCTV12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+CCTV15,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+CCTV16,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+CCTV17,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+CETV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225753/index.m3u8
+CETV2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225756/index.m3u8
+CETV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226226/index.m3u8
+CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
+浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+四川卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225768/index.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+山西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225763/index.m3u8
+山东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+山东教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+东南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225766/index.m3u8
+海南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
+厦门卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
+河南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225767/index.m3u8
+湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+河北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225750/index.m3u8
+湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+金鹰卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225744/index.m3u8
+东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
+辽宁卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+黑龙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+吉林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225792/index.m3u8
+广西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225770/index.m3u8
+江西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
+江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
+深圳卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+大湾区卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+北京卡酷,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225743/index.m3u8
+冬奥纪实,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
+嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+云南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225751/index.m3u8
+贵州卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225793/index.m3u8
+宁夏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225748/index.m3u8
+甘肃卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225754/index.m3u8
+西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
+安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+新疆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225747/index.m3u8
+兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+延边卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
+内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
+康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226234/index.m3u8
+电视指南,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+风云足球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+风云音乐,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+央视台球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+女性时尚,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
+哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
+CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC家庭影院,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+陕西卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225821/index.m3u8
+农林卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
+陕西一套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226357/1.m3u8
+陕西二套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226358/1.m3u8
+陕西三套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226359/1.m3u8
+陕西四套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/1.m3u8
+陕西五套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226361/1.m3u8
+陕西六套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8
+陕西七套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226363/1.m3u8
+陕西八套,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226364/1.m3u8
+西安新闻综合,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226366/1.m3u8
+西安都市,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226367/1.m3u8
+西安商务资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/1.m3u8
+西安影视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226369/1.m3u8
+西安丝路,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/1.m3u8
+西安教育,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+咸阳-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226372/index.m3u8
+杨凌-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226373/index.m3u8
+延安-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226374/1.m3u8
+延安-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226375/1.m3u8
+铜川-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226379/1.m3u8
+铜川-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226380/1.m3u8
+宝鸡-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226383/1.m3u8
+宝鸡-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226384/1.m3u8
+宁强-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226390/1.m3u8
+宁强-2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226389/1.m3u8
+汉中-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226331/1.m3u8
+汉中-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225991/index.m3u8
+佛坪-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8
+镇巴-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226457/1.m3u8
+略阳-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226322/1.m3u8
+西乡-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226556/index.m3u8
+榆林-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226377/1.m3u8
+商洛-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226378/1.m3u8
+渭南-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226376/1.m3u8
+安康-1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226385/1.m3u8
+纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
+山东教育卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226238/index.m3u8
+置业频道,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226241/index.m3u8
+京视剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
+家庭理财,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226244/index.m3u8
+奕坦春秋,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226245/index.m3u8
+发现之旅,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226235/index.m3u8
+老故事,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8
+
+
+🌏全球 ,#genre#
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+BRICS台,https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
+俄罗斯频,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+乌克兰台,https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
+朝鲜新闻,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国新闻,http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+俄罗斯台,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+日本华语,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+环球频道,http://live.cgtn.com/500/prog_index.m3u8
+ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+欧洲体育,http://europa-crtvg.flumotion.com/playlist.m3u8
+欧洲华01,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39 
+欧洲华02,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+欧洲华06,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe 
+动物频道,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+地理野生,http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+📡湾湾,#genre#
+东森01,https://yeslivetv.com/hls/memfs/7b2cc0dc-dbd3-4e46-b320-d95b81d610ad.m3u8
+东森02,https://yeslivetv.com/hls/memfs/7b2cc0dc-dbd3-4e46-b320-d95b81d610ad_output_0.m3u8?session=HjMNXGNjoEdzMouWFTLqAJ
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+
+🏆体育 ,#genre#
+
+纬来篮球,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来篮球,https://cloud.yumixiu768.com/tmp/123.m3u8
+广东体育,http://111.221.137.154:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
+广东体育,http://218.17.196.234:9901/tsfile/live/1001_1.m3u8
+安徽体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
+咪咕体育,http://maomao.kandiantv.cn/m3u8.php?/migu/654102378
+CCTV05,http://111.20.40.173/PLTV/88888893/224/3221226395/index.m3u8
+CCTV5+,http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw4035956330_-1197773273/wd_r2/cctv/cctv5plusnew/2500/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208130700&ContentId=265106763&timezone=UTC&mtv_session=b1d7170ccd660150baa2e9435d787064&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=dfe2cfbc447ddc224a226f33be3d0f39
+CCTV16,http://120.196.232.16:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m3u8
+五星体育,http://222.71.90.218:8888/newlive/live/hls/56/live.m3u8
+赛事经典,http://maomao.kandiantv.cn/m3u8.php?/migu/646596895
+体坛名栏,http://maomao.kandiantv.cn/m3u8.php?/migu/629943305
+先锋乒羽,http://113.207.84.199/session/019e279e-877d-11ee-a899-5254003e6f6fh1.0live.cbncdn.cn/pj9p9p/__cl/cg:live/__c/xianfeng/__op/default/__f/index.m3u8?token=4b64510b8827aa244fe76b35cd1e6c6e_1700554545_1700554545
+新视觉台,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/xsjhd8m/8000000/mnf.m3u8
+五星体育,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
+劲爆体育,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43084/index.m3u8
+劲爆体育,http://httpdvb.slave.shuliyun.com:13164/playurl?programid=4200000101&playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=ABCDEFGHI.m3u8
+魅力足球,http://httpdvb.slave.yqdtv.com:13164/playurl?programid=4200000148&playtype=live&protocol=hls&playtoken=31603YEQXREOPEG10&accesstoken=G79E6023V21307D1TD05FABJB53102ABM786710FEI3282697DK98BDA6.m3u8
+魅力足球,http://140.249.29.151/liveplay-kk.rtxapp.com/live/program/live/mlyyhd8m/8000000/mnf.m3u8
+魅力足球,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43083/index.m3u8
+风云足球,http://111.20.40.170/PLTV/88888893/224/3221226984/index.m3u8
+国外体育6,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+美国摔角&,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+阿伦直播不定时,https://pull.lianggexinxi.xyz/live/stream-676201_lhd.flv?auth_key=1697009064-0-0-0f43b82816ab23e1a7d9c05c444bda79
+王中直播不定时,https://pull.lianggexinxi.xyz/live/stream-505246_lhd.flv?auth_key=1697008824-0-0-c004071c191a3bd0928215ed175f1647
+小七直播不定时,https://pull.lianggexinxi.xyz/live/stream-418311_lsd.m3u8?_=1698249099856
+叨叨直播不定时,https://pull.lianggexinxi.xyz/live/stream-507928_lhd.flv?auth_key=1697008644-0-0-109717475c07bf7a012644ef823765af
+大邱直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697006121706
+大神直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lsd.m3u8?_=1697004264631
+酷迪直播不定时,https://pull.lianggexinxi.xyz/live/stream-705956_lhd.flv?auth_key=1697008884-0-0-6da68819d1e2ebac3b52ad78589ea297
+老师直播不定时,https://pull.lianggexinxi.xyz/live/stream-600428_lhd.flv?auth_key=1697008944-0-0-c25e48e127303de01e525604574b3511
+米哥直播不定时,https://pull.lianggexinxi.xyz/live/stream-431228_lsd.m3u8?_=1698248787521
+
+🎬电影 ,#genre#
+邵氏影院代,http://maomao.kandiantv.cn/douyu1.php?id=4246519
+4k影院台代,http://maomao.kandiantv.cn/douyu1.php?id=9249162
+4k影院画质,http://epg.112114.xyz/douyu/9249162
+大吉大利代,https://pull.kktv8.com/livekktv/128600025.flv
+经典大片代,http://epg.112114.xyz/huya/11352903
+国产影院代,http://maomao.kandiantv.cn/douyu1.php?id=5423
+吃米滴虫代,http://maomao.kandiantv.cn/douyu1.php?id=315457
+冰冰经典代,http://maomao.kandiantv.cn/douyu1.php?id=74374
+星爷影院代,http://159.75.85.63:35455/douyu/508118
+6MH周星星,http://tx-screenshots.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+6MD特辑院,http://maomao.kandiantv.cn/douyu1.php?id=3637778
+6MH七先生,http://tx-screenshots.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv?
+4MH暴走君,http://tx-screenshots.flv.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.flv?
+4MH兜兜兜,http://tx-screenshots.flv.huya.com/src/1420736865-1420736865-6102018371396567040-2847687618-10057-A-0-1.flv?
+4MH大裁子,http://tx-screenshots.flv.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.flv?
+4MH苦瓜姨,http://tx-screenshots.flv.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.flv?
+4MH爱小强,http://tx-screenshots.flv.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.flv?
+4MH爱初心,http://tx-screenshots.flv.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.flv?
+4MH铁血汉,http://tx-screenshots.flv.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.flv?
+4MH我宝贝,http://tx-screenshots.flv.huya.com/src/1449567112-1449567112-6225843339397169152-2847687536-10057-A-0-1.flv?
+4MH寞尛北,http://tx-screenshots.flv.huya.com/src/1420752082-1420752082-6102083727913910272-3049003134-10057-A-0-1.flv?
+澳門莲花㊣版,https://p.ggiptv.com/v/macaulotustv.php
+福星高照㊣代,https://pull.kktv8.com/livekktv/99592190.flv
+福星高照㊣代,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+鸿运当头㊣代,https://pull.kktv8.com/livekktv/99350550.flv
+凌儿影院㊣版,http://maomao.kandiantv.cn/douyu1.php?id=1377142
+央视66台㊣版,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
+CHC高清㊣版,http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
+CHC高清㊣版,https://epg.pw/stream/1a4cd3bde6c89a72947617eacade8b1d5846f1888177726480dd75d83caea7cb.m3u8
+CHC高清㊣版,https://epg.pw/stream/4d4f0ded35dbcdccb466941af1b829780227a37bfa07947448e6f50f112ae0a1.m3u8
+CHC家庭㊣版,https://epg.pw/stream/a1c62411cca761eb5dbe982fd942c2d233f1a37a61f8ac1e4fb7c7f5b17200c5.m3u8
+CHC家庭㊣版,https://epg.pw/stream/813b902c76009baec09d0d0a2b8300ff7ad473e7e88af74870ec04eee46694b0.m3u8
+CHC动作㊣版,https://epg.pw/stream/02a582fc67bfff3762422afd2afafd15a346db899ab08ec26b328ce146665b2e.m3u8
+CHC动作㊣版,https://epg.pw/stream/0d70b4ab6d8810e6cc621382b2970d1312b24247b1ad9ab01d14b6cf01ebbafa.m3u8
+麓山迷踪㊣版,http://maomao.kandiantv.cn/douyu1.php?id=4505431
+瑶瑶恐怖㊣版,http://159.75.85.63:35455/douyu/2935323
+怡寶影院㊣版,http://159.75.85.63:35455/douyu/434971
+小黛兮影㊣版,http://159.75.85.63:35455/douyu/11553944
+萌小鬼片✔原,http://maomao.kandiantv.cn/douyu1.php?id=3928
+神乐影院-1台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+神乐影院-2台,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
+神乐影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=122402
+可乐影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=20415
+小宇60帧✔原,http://maomao.kandiantv.cn/douyu1.php?id=323876
+恐怖惊悚✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+電影劇場✔原,http://maomao.kandiantv.cn/douyu1.php?id=7575350
+國語電影✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+豆瓣高分✔原,http://maomao.kandiantv.cn/douyu1.php?id=8770422
+花卷陪看✔原,http://maomao.kandiantv.cn/douyu1.php?id=52787
+漫威剧情✔原,http://maomao.kandiantv.cn/douyu1.php?id=6140589
+霍格沃茨✔原,http://maomao.kandiantv.cn/douyu1.php?id=8814650
+鱼宝恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=1165374
+鬼片恐怖✔原,http://maomao.kandiantv.cn/douyu1.php?id=2935323
+小U鬼片✔原,http://maomao.kandiantv.cn/douyu1.php?id=96577
+菜园惊险✔原,http://maomao.kandiantv.cn/douyu1.php?id=1735337
+吃奶滴虫✔原,http://maomao.kandiantv.cn/douyu1.php?id=263824
+变种人片✔原,http://maomao.kandiantv.cn/douyu1.php?id=9651304
+喜剧电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=9292492
+女神电影✔原,http://maomao.kandiantv.cn/douyu1.php?id=747764
+华语经典✔原,http://maomao.kandiantv.cn/douyu1.php?id=434971
+避风影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=9826611
+星星影院✔原,http://maomao.kandiantv.cn/douyu1.php?id=315131
+欧美大片✔原,http://maomao.kandiantv.cn/douyu1.php?id=2793084
+贝爷影厅✔原,http://maomao.kandiantv.cn/douyu1.php?id=252802
+译制国语✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
+绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+
+🎬HBO ,#genre#
+HOB,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
+HBO,http://208.115.225.174:14165
+HBO 2,http://208.115.225.174:14140
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+WB TV,http://208.115.225.174:14132
+HBO,http://15.235.10.31:14378
+HBO,http://15.235.10.31:14379
+HBO,http://15.235.10.31:14380
+HBO2,http://15.235.10.31:14381
+HBO2,http://15.235.10.31:14382
+HBO2,http://15.235.10.31:14383
+HBO2,http://15.235.10.31:14384
+HBO Mundi,http://15.235.10.31:14385
+HBO Family,http://15.235.10.31:14386
+HBO Family,http://15.235.10.31:14387
+HBO Family,http://15.235.10.31:14388
+@EXM3U,http://15.235.10.31:14389
+Space BR,http://15.235.10.31:14390
+HBO Mundi,http://15.235.10.31:14392
+HBO Mundi,http://15.235.10.31:14393
+HBO Mundi,http://15.235.10.31:14394
+HBO Mundi,http://15.235.10.31:14395
+HBO Pop,http://15.235.10.31:14396
+HBO Pop,http://15.235.10.31:14397
+HBO Pop,http://15.235.10.31:14398
+HBO Pop,http://15.235.10.31:14399
+HBO Signature,http://15.235.10.31:14400
+HBO Signature,http://15.235.10.31:14401
+HBO Signature,http://15.235.10.31:14402
+HBO Signature,http://15.235.10.31:14403
+HBO Xtreme,http://15.235.10.31:14405
+HBO Xtreme,http://15.235.10.31:14406
+HBO Xtreme,http://15.235.10.31:14407
+HBO+,http://15.235.10.31:14408
+HBO+,http://15.235.10.31:14409
+HBO+,http://15.235.10.31:14410
+HBO+,http://15.235.10.31:14411
+
+🎬影院 ,#genre#
+余杭影院频道,http://hzdx.chiang.fun:3333/tsfile/live/1018_1.m3u8
+余杭影院频道,http://183.129.242.178:3333/tsfile/live/1018_1.m3u8
+南京影院频道,http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8
+平泉影院频道,https://jwliveqxzb.hebyun.com.cn/pqys/pqys.m3u8
+南宁影院频道,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
+浙江影院频道,https://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+万州影院文艺,http://123.146.162.24:8017/d4ceB1a/1000/live.m3u8
+万州影院文艺,http://wanzhoulive.cbg.cn:8017/d4ceB1a/1000/live.m3u8
+新泰影院频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
+新泰影院频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
+新昌休闲影院,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
+浙江影院频道,http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+浙江教科影院,http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+河北影院剧台,https://event.pull.hebtv.com/jishi/yingshijupindao.m3u8
+
+
+💞少儿 ,#genre#
+浙江少儿,http://hzdx.chiang.fun:3333/tsfile/live/1009_1.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/500k.m3u8
+南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+
+直播中国,#genre#
+直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
+直播中国精编直播,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
+湖南张家界水绕四门,http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8
+湖南张家界水绕四门,http://gcbsc.v.live.baishancdnx.cn/gc/zjjsrsm_1/index.m3u8
+湖南张家界将军列队,http://gcksc.v.kcdnvip.com/gc/zjjjjdl_1/index.m3u8
+湖南张家界将军列队,http://gcbsc.v.live.baishancdnx.cn/gc/zjjjjdl_1/index.m3u8
+湖南张家界阿凡达悬浮山,http://gcksc.v.kcdnvip.com/gc/zjjafdxfs_1/index.m3u8
+湖南张家界阿凡达悬浮山,http://gcbsc.v.live.baishancdnx.cn/gc/zjjafdxfs_1/index.m3u8
+湖南张家界迷魂台,http://gcksc.v.kcdnvip.com/gc/zjjmht_1/index.m3u8
+湖南张家界迷魂台,http://gccncc.v.wscdns.com/gc/zjjmht_1/index.m3u8
+湖南张家界迷魂台,http://gcbsc.v.live.baishancdnx.cn/gc/zjjmht_1/index.m3u8
+湖南张家界宝峰湖,http://gcksc.v.kcdnvip.com/gc/zjjbfh_1/index.m3u8
+湖南张家界宝峰湖,http://gccncc.v.wscdns.com/gc/zjjbfh_1/index.m3u8
+湖南张家界宝峰湖,http://gcbsc.v.live.baishancdnx.cn/gc/zjjbfh_1/index.m3u8
+湖南张家界御笔峰,http://gcksc.v.kcdnvip.com/gc/zjjybf_1/index.m3u8
+湖南张家界御笔峰,http://gcbsc.v.live.baishancdnx.cn/gc/zjjybf_1/index.m3u8
+四川峨眉山云海日出,http://gcksc.v.kcdnvip.com/gc/emsarm_1/index.m3u8
+四川峨眉山云海日出,http://gccncc.v.wscdns.com/gc/emsarm_1/index.m3u8
+四川峨眉山云海日出,http://gcbsc.v.live.baishancdnx.cn/gc/emsarm_1/index.m3u8
+四川峨眉山远眺贡嘎雪山,http://gcksc.v.kcdnvip.com/gc/emsyh_1/index.m3u8
+四川峨眉山远眺贡嘎雪山,http://gcbsc.v.live.baishancdnx.cn/gc/emsyh_1/index.m3u8
+四川峨眉山普贤菩萨铜像,http://gcksc.v.kcdnvip.com/gc/emspxps_1/index.m3u8
+四川峨眉山普贤菩萨铜像,http://gccncc.v.wscdns.com/gc/emspxps_1/index.m3u8
+四川峨眉山普贤菩萨铜像,http://gcbsc.v.live.baishancdnx.cn/gc/emspxps_1/index.m3u8
+四川峨眉山远眺万佛顶,http://gcksc.v.kcdnvip.com/gc/emswfs_1/index.m3u8
+四川峨眉山远眺万佛顶,http://gcbsc.v.live.baishancdnx.cn/gc/emswfs_1/index.m3u8
+浙江杭州云栖小镇,http://gcksc.v.kcdnvip.com/gc/wygjt2_1/index.m3u8
+浙江杭州云栖小镇,http://gccncc.v.wscdns.com/gc/wygjt2_1/index.m3u8
+浙江杭州云栖小镇,http://gcbsc.v.live.baishancdnx.cn/gc/wygjt2_1/index.m3u8
+重庆石柱华溪村,http://gcksc.v.kcdnvip.com/gc/jsh02_1/index.m3u8
+重庆石柱华溪村,http://gccncc.v.wscdns.com/gc/jsh02_1/index.m3u8
+重庆石柱华溪村,http://gcbsc.v.live.baishancdnx.cn/gc/jsh02_1/index.m3u8
+江西井冈山神山村,http://gcksc.v.kcdnvip.com/gc/wysyxdhp_1/index.m3u8
+江西井冈山神山村,http://gcbsc.v.live.baishancdnx.cn/gc/wysyxdhp_1/index.m3u8
+安徽金寨大湾村,http://gcksc.v.kcdnvip.com/gc/szgk01_1/index.m3u8
+安徽金寨大湾村,http://gcbsc.v.live.baishancdnx.cn/gc/szgk01_1/index.m3u8
+山西苛岚宋家沟新村,http://gcksc.v.kcdnvip.com/gc/wysdhpcy_1/index.m3u8
+山西苛岚宋家沟新村,http://gcbsc.v.live.baishancdnx.cn/gc/wysdhpcy_1/index.m3u8
+河北张北德胜村,http://gcksc.v.kcdnvip.com/gc/pygc01_1/index.m3u8
+河北张北德胜村,http://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
+河北张北德胜村,http://gcbsc.v.live.baishancdnx.cn/gc/pygc01_1/index.m3u8
+新疆天山(海西平台),http://gcksc.v.kcdnvip.com/gc/xjtchxpt_1/index.m3u8
+新疆天山(定海神针),http://gcksc.v.kcdnvip.com/gc/xjtcdhsz_1/index.m3u8
+新疆天山(定海神针),http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
+新疆天山(马牙山),http://gcksc.v.kcdnvip.com/gc/xjtcmys_1/index.m3u8
+新疆天山(灯杆山),http://gcksc.v.kcdnvip.com/gc/xjtcdgs_1/index.m3u8
+湖南张家界天门山西线玻璃栈道,http://gcksc.v.kcdnvip.com/gc/tms05_1/index.m3u8
+湖南张家界天门山西线玻璃栈道,http://gcbsc.v.live.baishancdnx.cn/gc/tms05_1/index.m3u8
+湖南张家界天门山天门洞,http://gcksc.v.kcdnvip.com/gc/tmstmd01_1/index.m3u8
+湖南张家界天门山天门洞,http://gcbsc.v.live.baishancdnx.cn/gc/tmstmd01_1/index.m3u8
+湖南张家界天门山天空步道,http://gcksc.v.kcdnvip.com/gc/tms02_1/index.m3u8
+湖南张家界天门山天空步道,http://gccncc.v.wscdns.com/gc/tms02_1/index.m3u8
+湖南张家界天门山天空步道,http://gcbsc.v.live.baishancdnx.cn/gc/tms02_1/index.m3u8
+湖南张家界天门山云梦仙顶,http://gcksc.v.kcdnvip.com/gc/tms04_1/index.m3u8
+湖南张家界天门山云梦仙顶,http://gcbsc.v.live.baishancdnx.cn/gc/tms04_1/index.m3u8
+厦门鼓浪屿,http://gcksc.v.kcdnvip.com/gc/gly01_1/index.m3u8
+厦门鼓浪屿,http://gccncc.v.wscdns.com/gc/gly01_1/index.m3u8
+厦门鼓浪屿,http://gcbsc.v.live.baishancdnx.cn/gc/gly01_1/index.m3u8
+广西玉林大容山莲花山顶,http://gcksc.v.kcdnvip.com/gc/drs01_1/index.m3u8
+广西玉林大容山莲花山顶,http://gcbsc.v.live.baishancdnx.cn/gc/drs01_1/index.m3u8
+八里沟风景区桃花湾瀑布,http://gcksc.v.kcdnvip.com/gc/blg05_1/index.m3u8
+八里沟风景区桃花湾瀑布,http://gcbsc.v.live.baishancdnx.cn/gc/blg05_1/index.m3u8
+八里沟风景区天界山玻璃栈道,http://gcksc.v.kcdnvip.com/gc/blg03_1/index.m3u8
+八里沟风景区天界山玻璃栈道,http://gcbsc.v.live.baishancdnx.cn/gc/blg03_1/index.m3u8
+汶川映秀新城,http://gcksc.v.kcdnvip.com/gc/wcyxxc01_1/index.m3u8
+汶川映秀新城,http://gcbsc.v.live.baishancdnx.cn/gc/wcyxxc01_1/index.m3u8
+十八洞村,http://gcksc.v.kcdnvip.com/gc/sbd01_1/index.m3u8
+十八洞村,http://gcbsc.v.live.baishancdnx.cn/gc/sbd01_1/index.m3u8
+趵突泉,http://gcksc.v.kcdnvip.com/gc/btq01_1/index.m3u8
+趵突泉,http://gcbsc.v.live.baishancdnx.cn/gc/btq01_1/index.m3u8
+安徽池州九华山风景区拜经台,http://gcksc.v.kcdnvip.com/gc/jhs02_1/index.m3u8
+安徽池州九华山风景区拜经台,http://gcbsc.v.live.baishancdnx.cn/gc/jhs02_1/index.m3u8
+安徽池州九华山风景区九华山,http://gcksc.v.kcdnvip.com/gc/jhs05_1/index.m3u8
+安徽池州九华山风景区九华山,http://gccncc.v.wscdns.com/gc/jhs05_1/index.m3u8
+安徽池州九华山风景区九华山,http://gcbsc.v.live.baishancdnx.cn/gc/jhs05_1/index.m3u8
+安徽池州九华山风景区花台,http://gcksc.v.kcdnvip.com/gc/jhs01_1/index.m3u8
+安徽池州九华山风景区花台,http://gcbsc.v.live.baishancdnx.cn/gc/jhs01_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,http://gcksc.v.kcdnvip.com/gc/ylh04_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台西,http://gcbsc.v.live.baishancdnx.cn/gc/ylh04_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台南,http://gcksc.v.kcdnvip.com/gc/ylh03_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台南,http://gccncc.v.wscdns.com/gc/ylh03_1/index.m3u8
+江苏徐州云龙湖风景区云龙山观景台南,http://gcbsc.v.live.baishancdnx.cn/gc/ylh03_1/index.m3u8
+浙江杭州千岛湖,http://gcksc.v.kcdnvip.com/gc/caqdh_1/index.m3u8
+浙江杭州千岛湖,http://gccncc.v.wscdns.com/gc/caqdh_1/index.m3u8
+浙江杭州千岛湖,http://gcbsc.v.live.baishancdnx.cn/gc/caqdh_1/index.m3u8
+南京玄武湖公园,http://gcksc.v.kcdnvip.com/gc/xwh01_1/index.m3u8
+南京玄武湖公园,http://gcbsc.v.live.baishancdnx.cn/gc/xwh01_1/index.m3u8
+云南丽江玉龙雪山,http://gcksc.v.kcdnvip.com/gc/ylxs11_1/index.m3u8
+云南丽江玉龙雪山,http://gccncc.v.wscdns.com/gc/ylxs11_1/index.m3u8
+云南丽江玉龙雪山,http://gcbsc.v.live.baishancdnx.cn/gc/ylxs11_1/index.m3u8
+云南丽江玉液湖,http://gcksc.v.kcdnvip.com/gc/hkylxs02_1/index.m3u8
+云南丽江玉液湖,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs02_1/index.m3u8
+云南丽江蓝月谷,http://gcksc.v.kcdnvip.com/gc/ylxs12_1/index.m3u8
+云南丽江蓝月谷,http://gcbsc.v.live.baishancdnx.cn/gc/ylxs12_1/index.m3u8
+云南白沙远眺玉龙雪山,http://gcksc.v.kcdnvip.com/gc/hkylxs03_1/index.m3u8
+云南白沙远眺玉龙雪山,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs03_1/index.m3u8
+云南丽江一滴水过丽江,http://gcksc.v.kcdnvip.com/gc/hkylxs04_1/index.m3u8
+云南丽江一滴水过丽江,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs04_1/index.m3u8
+云南丽江玉龙雪山草甸,http://gcksc.v.kcdnvip.com/gc/hkylxs06_1/index.m3u8
+云南丽江玉龙雪山草甸,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs06_1/index.m3u8
+云南丽江白水台,http://gcksc.v.kcdnvip.com/gc/hkylxs07_1/index.m3u8
+云南丽江白水台,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs07_1/index.m3u8
+云南丽江蓝月谷中游湖面,http://gcksc.v.kcdnvip.com/gc/hkylxs08_1/index.m3u8
+云南丽江蓝月谷中游湖面,http://gccncc.v.wscdns.com/gc/hkylxs08_1/index.m3u8
+云南丽江蓝月谷中游湖面,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs08_1/index.m3u8
+云南丽江高尔夫,http://gcksc.v.kcdnvip.com/gc/hkylxs09_1/index.m3u8
+云南丽江高尔夫,http://gccncc.v.wscdns.com/gc/hkylxs09_1/index.m3u8
+云南丽江高尔夫,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs09_1/index.m3u8
+云南丽江冰川,http://gcksc.v.kcdnvip.com/gc/hkylxs05_1/index.m3u8
+云南丽江冰川,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs05_1/index.m3u8
+云南丽江印象实景,http://gcksc.v.kcdnvip.com/gc/hkylxs01_1/index.m3u8
+云南丽江印象实景,http://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
+云南丽江印象实景,http://gcbsc.v.live.baishancdnx.cn/gc/hkylxs01_1/index.m3u8
+江苏南京牛首山,http://gcksc.v.kcdnvip.com/gc/nss01_1/index.m3u8
+江苏南京牛首山,http://gcbsc.v.live.baishancdnx.cn/gc/nss01_1/index.m3u8
+福建漳州六鳌翡翠湾,http://gcksc.v.kcdnvip.com/gc/fcw01_1/index.m3u8
+福建漳州六鳌翡翠湾,http://gccncc.v.wscdns.com/gc/fcw01_1/index.m3u8
+福建漳州六鳌翡翠湾,http://gcbsc.v.live.baishancdnx.cn/gc/fcw01_1/index.m3u8
+福建漳州醉美沙滩翡翠湾,http://gcksc.v.kcdnvip.com/gc/fcw03_1/index.m3u8
+福建漳州醉美沙滩翡翠湾,http://gccncc.v.wscdns.com/gc/fcw03_1/index.m3u8
+福建漳州醉美沙滩翡翠湾,http://gcbsc.v.live.baishancdnx.cn/gc/fcw03_1/index.m3u8
+天津之眼,http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
+天津之眼,http://gccncc.v.wscdns.com/gc/tjhh01_1/index.m3u8
+天津之眼,http://gcbsc.v.live.baishancdnx.cn/gc/tjhh01_1/index.m3u8
+四川西昌邛海景区,http://gcksc.v.kcdnvip.com/gc/xcqh01_1/index.m3u8
+四川西昌邛海景区,http://gccncc.v.wscdns.com/gc/xcqh01_1/index.m3u8
+四川西昌邛海景区,http://gcbsc.v.live.baishancdnx.cn/gc/xcqh01_1/index.m3u8
+普陀山,http://gcksc.v.kcdnvip.com/gc/pts01_1/index.m3u8
+普陀山,http://gcbsc.v.live.baishancdnx.cn/gc/pts01_1/index.m3u8
+浙江舟山东极岛,http://gcksc.v.kcdnvip.com/gc/djd01_1/index.m3u8
+浙江舟山东极岛,http://gcbsc.v.live.baishancdnx.cn/gc/djd01_1/index.m3u8
+河南郑东新区千玺广场,http://gcksc.v.kcdnvip.com/gc/zdxq01_1/index.m3u8
+河南郑东新区千玺广场,http://gccncc.v.wscdns.com/gc/zdxq01_1/index.m3u8
+河南郑东新区千玺广场,http://gcbsc.v.live.baishancdnx.cn/gc/zdxq01_1/index.m3u8
+四川四姑娘山幺妹峰,http://gcksc.v.kcdnvip.com/gc/sgns01_1/index.m3u8
+四川四姑娘山幺妹峰,http://gcbsc.v.live.baishancdnx.cn/gc/sgns01_1/index.m3u8
+四川四姑娘山隆珠措,http://gcksc.v.kcdnvip.com/gc/sgns02_1/index.m3u8
+四川四姑娘山隆珠措,http://gccncc.v.wscdns.com/gc/sgns02_1/index.m3u8
+四川四姑娘山隆珠措,http://gcbsc.v.live.baishancdnx.cn/gc/sgns02_1/index.m3u8
+宁夏沙坡头黄河漂流,http://gcbsc.v.live.baishancdnx.cn/gc/nxspthhpl_1/index.m3u8
+宁夏沙坡头长河落日,http://gcksc.v.kcdnvip.com/gc/nxsptdmgychlr_1/index.m3u8
+宁夏沙坡头长河落日,http://gccncc.v.wscdns.com/gc/nxsptdmgychlr_1/index.m3u8
+宁夏沙坡头长河落日,http://gcbsc.v.live.baishancdnx.cn/gc/nxsptdmgychlr_1/index.m3u8
+宁夏沙坡头大漠孤烟,http://gcksc.v.kcdnvip.com/gc/nxsptdmgy_1/index.m3u8
+宁夏沙坡头大漠孤烟,http://gcbsc.v.live.baishancdnx.cn/gc/nxsptdmgy_1/index.m3u8
+丽江古城大研花巷观景,http://gcksc.v.kcdnvip.com/gc/ljgcdyhxgjt_1/index.m3u8
+丽江古城大研花巷观景,http://gccncc.v.wscdns.com/gc/ljgcdyhxgjt_1/index.m3u8
+丽江古城大研花巷观景,http://gcbsc.v.live.baishancdnx.cn/gc/ljgcdyhxgjt_1/index.m3u8
+丽江古城大水车,http://gcksc.v.kcdnvip.com/gc/ljgcdsc_1/index.m3u8
+丽江古城大水车,http://gcbsc.v.live.baishancdnx.cn/gc/ljgcdsc_1/index.m3u8
+丽江古城万古楼遥望玉龙雪山,http://gcksc.v.kcdnvip.com/gc/ljgcwglytylxs_1/index.m3u8
+丽江古城万古楼遥望玉龙雪山,http://gccncc.v.wscdns.com/gc/ljgcwglytylxs_1/index.m3u8
+丽江古城万古楼遥望玉龙雪山,http://gcbsc.v.live.baishancdnx.cn/gc/ljgcwglytylxs_1/index.m3u8
+狮子山鸟瞰丽江古城,http://gcksc.v.kcdnvip.com/gc/ljgcszsnkgc_1/index.m3u8
+狮子山鸟瞰丽江古城,http://gcbsc.v.live.baishancdnx.cn/gc/ljgcszsnkgc_1/index.m3u8
+云台山小寨沟,http://gcksc.v.kcdnvip.com/gc/ytsxzg_1/index.m3u8
+云台山小寨沟,http://gcbsc.v.live.baishancdnx.cn/gc/ytsxzg_1/index.m3u8
+云台山百家岩,http://gcksc.v.kcdnvip.com/gc/ytsbjy_1/index.m3u8
+云台山百家岩,http://gcbsc.v.live.baishancdnx.cn/gc/ytsbjy_1/index.m3u8
+云台山红石峡,http://gcksc.v.kcdnvip.com/gc/ytshsx_1/index.m3u8
+云台山红石峡,http://gccncc.v.wscdns.com/gc/ytshsx_1/index.m3u8
+云台山红石峡,http://gcbsc.v.live.baishancdnx.cn/gc/ytshsx_1/index.m3u8
+云台山茱萸峰,http://gcksc.v.kcdnvip.com/gc/ytszyf_1/index.m3u8
+云台山茱萸峰,http://gccncc.v.wscdns.com/gc/ytszyf_1/index.m3u8
+云台山茱萸峰,http://gcbsc.v.live.baishancdnx.cn/gc/ytszyf_1/index.m3u8
+雪乡梦幻家园,http://gcksc.v.kcdnvip.com/gc/mdjxxmhjyxj_1/index.m3u8
+雪乡梦幻家园,http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxmhjyxj_1/index.m3u8
+雪乡梦幻家园观景台,http://gcksc.v.kcdnvip.com/gc/mdjxxmhjygjt_1/index.m3u8
+雪乡梦幻家园观景台,http://gccncc.v.wscdns.com/gc/mdjxxmhjygjt_1/index.m3u8
+雪乡梦幻家园观景台,http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxmhjygjt_1/index.m3u8
+雪乡大石碑,http://gcksc.v.kcdnvip.com/gc/mdjxxdsb_1/index.m3u8
+雪乡大石碑,http://gcbsc.v.live.baishancdnx.cn/gc/mdjxxdsb_1/index.m3u8
+乌镇蓝印花布,http://gcksc.v.kcdnvip.com/gc/zjwzlyhb_1/index.m3u8
+乌镇蓝印花布,http://gccncc.v.wscdns.com/gc/zjwzlyhb_1/index.m3u8
+乌镇蓝印花布,http://gcbsc.v.live.baishancdnx.cn/gc/zjwzlyhb_1/index.m3u8
+乌镇西市河,http://gcksc.v.kcdnvip.com/gc/zjwzbblh_1/index.m3u8
+乌镇西市河,http://gccncc.v.wscdns.com/gc/zjwzbblh_1/index.m3u8
+乌镇西市河,http://gcbsc.v.live.baishancdnx.cn/gc/zjwzbblh_1/index.m3u8
+乌镇龙形田,http://gcksc.v.kcdnvip.com/gc/zjwzlxt_1/index.m3u8
+乌镇龙形田,http://gcbsc.v.live.baishancdnx.cn/gc/zjwzlxt_1/index.m3u8
+乌镇全景,http://gcksc.v.kcdnvip.com/gc/zjwzblt_1/index.m3u8
+乌镇全景,http://gcbsc.v.live.baishancdnx.cn/gc/zjwzblt_1/index.m3u8
+凤凰古城南华山,http://gcksc.v.kcdnvip.com/gc/fhgcdnhs_1/index.m3u8
+凤凰古城南华山,http://gcbsc.v.live.baishancdnx.cn/gc/fhgcdnhs_1/index.m3u8
+凤凰古城东关门,http://gcksc.v.kcdnvip.com/gc/fhgcdgm_1/index.m3u8
+凤凰古城东关门,http://gcbsc.v.live.baishancdnx.cn/gc/fhgcdgm_1/index.m3u8
+黄花城水长城01,http://gcksc.v.kcdnvip.com/gc/wgw01_1/index.m3u8
+黄花城水长城01,http://gcbsc.v.live.baishancdnx.cn/gc/wgw01_1/index.m3u8
+黄花城水长城02,http://gcksc.v.kcdnvip.com/gc/wgw02_1/index.m3u8
+黄花城水长城02,http://gcbsc.v.live.baishancdnx.cn/gc/wgw02_1/index.m3u8
+黄花城水长城02,http://gctxyc.liveplay.myqcloud.com/gc/wgw02_1/index.m3u8
+黄花城水长城03,http://gcksc.v.kcdnvip.com/gc/wgw03_1/index.m3u8
+黄花城水长城03,http://gcbsc.v.live.baishancdnx.cn/gc/wgw03_1/index.m3u8
+黄花城水长城04,http://gcksc.v.kcdnvip.com/gc/wgw04_1/index.m3u8
+黄花城水长城04,http://gcbsc.v.live.baishancdnx.cn/gc/wgw04_1/index.m3u8
+鸣沙山,http://gcksc.v.kcdnvip.com/gc/dhyyqst_1/index.m3u8
+鸣沙山,http://gcbsc.v.live.baishancdnx.cn/gc/dhyyqst_1/index.m3u8
+鸣沙山山门,http://gcksc.v.kcdnvip.com/gc/dhyyqyyq_1/index.m3u8
+鸣沙山山门,http://gcbsc.v.live.baishancdnx.cn/gc/dhyyqyyq_1/index.m3u8
+月牙泉,http://gcksc.v.kcdnvip.com/gc/dhyyqsm_1/index.m3u8
+月牙泉,http://gcbsc.v.live.baishancdnx.cn/gc/dhyyqsm_1/index.m3u8
+五彩池,http://gcksc.v.kcdnvip.com/gc/hlwcc_1/index.m3u8
+五彩池,http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8
+五彩池,http://gcbsc.v.live.baishancdnx.cn/gc/hlwcc_1/index.m3u8
+黄龙,http://gcksc.v.kcdnvip.com/gc/hlzycc_1/index.m3u8
+黄龙,http://gcbsc.v.live.baishancdnx.cn/gc/hlzycc_1/index.m3u8
+望乡台,http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
+望乡台,http://gccncc.v.wscdns.com/gc/hlwxt_1/index.m3u8
+望乡台,http://gcbsc.v.live.baishancdnx.cn/gc/hlwxt_1/index.m3u8
+洗身洞,http://gcksc.v.kcdnvip.com/gc/hlxsd_1/index.m3u8
+洗身洞,http://gccncc.v.wscdns.com/gc/hlxsd_1/index.m3u8
+洗身洞,http://gcbsc.v.live.baishancdnx.cn/gc/hlxsd_1/index.m3u8
+泰山主峰,http://gcksc.v.kcdnvip.com/gc/taishan01_1/index.m3u8
+泰山主峰,http://gcbsc.v.live.baishancdnx.cn/gc/taishan01_1/index.m3u8
+泰山大观峰,http://gcksc.v.kcdnvip.com/gc/taishan03_1/index.m3u8
+泰山大观峰,http://gcbsc.v.live.baishancdnx.cn/gc/taishan03_1/index.m3u8
+泰山拱北石,http://gcksc.v.kcdnvip.com/gc/taishan04_1/index.m3u8
+泰山拱北石,http://gcbsc.v.live.baishancdnx.cn/gc/taishan04_1/index.m3u8
+泰山玉皇顶,http://gcksc.v.kcdnvip.com/gc/taishan06_1/index.m3u8
+泰山玉皇顶,http://gccncc.v.wscdns.com/gc/taishan06_1/index.m3u8
+泰山玉皇顶,http://gcbsc.v.live.baishancdnx.cn/gc/taishan06_1/index.m3u8
+泰山十八盘,http://gcksc.v.kcdnvip.com/gc/taishan05_1/index.m3u8
+泰山十八盘,http://gcbsc.v.live.baishancdnx.cn/gc/taishan05_1/index.m3u8
+泰山天街,http://gcksc.v.kcdnvip.com/gc/taishan07_1/index.m3u8
+泰山天街,http://gccncc.v.wscdns.com/gc/taishan07_1/index.m3u8
+泰山天街,http://gcbsc.v.live.baishancdnx.cn/gc/taishan07_1/index.m3u8
+泰山经石峪,http://gcksc.v.kcdnvip.com/gc/hkts04_1/index.m3u8
+泰山经石峪,http://gcbsc.v.live.baishancdnx.cn/gc/hkts04_1/index.m3u8
+泰山望人松,http://gcksc.v.kcdnvip.com/gc/taishan02_1/index.m3u8
+泰山望人松,http://gcbsc.v.live.baishancdnx.cn/gc/taishan02_1/index.m3u8
+泰山龙潭水库,http://gcksc.v.kcdnvip.com/gc/hkts06_1/index.m3u8
+泰山龙潭水库,http://gccncc.v.wscdns.com/gc/hkts06_1/index.m3u8
+泰山龙潭水库,http://gcbsc.v.live.baishancdnx.cn/gc/hkts06_1/index.m3u8
+泰山南天门,http://gcksc.v.kcdnvip.com/gc/hkts07_1/index.m3u8
+泰山南天门,http://gcbsc.v.live.baishancdnx.cn/gc/hkts07_1/index.m3u8
+泰山白云亭悬崖,http://gcksc.v.kcdnvip.com/gc/hkts02_1/index.m3u8
+泰山白云亭悬崖,http://gcbsc.v.live.baishancdnx.cn/gc/hkts02_1/index.m3u8
+泰山扇子崖,http://gcksc.v.kcdnvip.com/gc/hkts08_1/index.m3u8
+泰山扇子崖,http://gcbsc.v.live.baishancdnx.cn/gc/hkts08_1/index.m3u8
+泰山太平岭,http://gcksc.v.kcdnvip.com/gc/hkts09_1/index.m3u8
+泰山太平岭,http://gccncc.v.wscdns.com/gc/hkts09_1/index.m3u8
+泰山太平岭,http://gcbsc.v.live.baishancdnx.cn/gc/hkts09_1/index.m3u8
+泰山碧霞祠,http://gcksc.v.kcdnvip.com/gc/hkts03_1/index.m3u8
+泰山碧霞祠,http://gcbsc.v.live.baishancdnx.cn/gc/hkts03_1/index.m3u8
+泰山玉皇顶东,http://gcksc.v.kcdnvip.com/gc/hkts10_1/index.m3u8
+泰山玉皇顶东,http://gccncc.v.wscdns.com/gc/hkts10_1/index.m3u8
+泰山玉皇顶东,http://gcbsc.v.live.baishancdnx.cn/gc/hkts10_1/index.m3u8
+泰山玉皇顶西,http://gcksc.v.kcdnvip.com/gc/hkts11_1/index.m3u8
+泰山玉皇顶西,http://gcbsc.v.live.baishancdnx.cn/gc/hkts11_1/index.m3u8
+黄山卧云峰,http://gcksc.v.kcdnvip.com/gc/hswlf_1/index.m3u8
+黄山卧云峰,http://gcbsc.v.live.baishancdnx.cn/gc/hswlf_1/index.m3u8
+黄山始信新道,http://gcksc.v.kcdnvip.com/gc/hsyg_1/index.m3u8
+黄山始信新道,http://gccncc.v.wscdns.com/gc/hsyg_1/index.m3u8
+黄山始信新道,http://gcbsc.v.live.baishancdnx.cn/gc/hsyg_1/index.m3u8
+黄山梦笔生花,http://gcksc.v.kcdnvip.com/gc/hsmbsh_1/index.m3u8
+黄山梦笔生花,http://gcbsc.v.live.baishancdnx.cn/gc/hsmbsh_1/index.m3u8
+黄山排云亭,http://gcksc.v.kcdnvip.com/gc/hspyt_1/index.m3u8
+黄山排云亭,http://gcbsc.v.live.baishancdnx.cn/gc/hspyt_1/index.m3u8
+黄山平天矼,http://gcksc.v.kcdnvip.com/gc/hsptgz_1/index.m3u8
+黄山平天矼,http://gccncc.v.wscdns.com/gc/hsptgz_1/index.m3u8
+黄山平天矼,http://gcbsc.v.live.baishancdnx.cn/gc/hsptgz_1/index.m3u8
+黄山飞来石,http://gcksc.v.kcdnvip.com/gc/hsptgy_1/index.m3u8
+黄山飞来石,http://gccncc.v.wscdns.com/gc/hsptgy_1/index.m3u8
+黄山飞来石,http://gcbsc.v.live.baishancdnx.cn/gc/hsptgy_1/index.m3u8
+黄山光明顶,http://gcksc.v.kcdnvip.com/gc/hsgmd_1/index.m3u8
+黄山光明顶,http://gccncc.v.wscdns.com/gc/hsgmd_1/index.m3u8
+黄山光明顶,http://gcbsc.v.live.baishancdnx.cn/gc/hsgmd_1/index.m3u8
+黄山,http://gcksc.v.kcdnvip.com/gc/ahhs01_1/index.m3u8
+黄山,http://gcbsc.v.live.baishancdnx.cn/gc/ahhs01_1/index.m3u8
+福建宁德太姥山景区,http://gcksc.v.kcdnvip.com/gc/tms01_1/index.m3u8
+福建宁德太姥山景区,http://gcbsc.v.live.baishancdnx.cn/gc/tms01_1/index.m3u8
+陕西洋县国宝朱鹮01,http://gcksc.v.kcdnvip.com/gc/zhhd01_1/index.m3u8
+陕西洋县国宝朱鹮01,http://gccncc.v.wscdns.com/gc/zhhd01_1/index.m3u8
+陕西洋县国宝朱鹮01,http://gcbsc.v.live.baishancdnx.cn/gc/zhhd01_1/index.m3u8
+陕西洋县国宝朱鹮02,http://gcksc.v.kcdnvip.com/gc/zh02_1/index.m3u8
+陕西洋县国宝朱鹮02,http://gcbsc.v.live.baishancdnx.cn/gc/zh02_1/index.m3u8
+陕西洋县国宝朱鹮03,http://gcksc.v.kcdnvip.com/gc/zh03_1/index.m3u8
+陕西洋县国宝朱鹮03,http://gccncc.v.wscdns.com/gc/zh03_1/index.m3u8
+陕西洋县国宝朱鹮03,http://gcbsc.v.live.baishancdnx.cn/gc/zh03_1/index.m3u8
+陕西洋县国宝朱鹮04,http://gcksc.v.kcdnvip.com/gc/zh04_1/index.m3u8
+陕西洋县国宝朱鹮04,http://gccncc.v.wscdns.com/gc/zh04_1/index.m3u8
+陕西洋县国宝朱鹮04,http://gcbsc.v.live.baishancdnx.cn/gc/zh04_1/index.m3u8
+安徽黟县西递半山亭,http://gcksc.v.kcdnvip.com/gc/yxxdbst_1/index.m3u8
+安徽黟县西递半山亭,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdbst_1/index.m3u8
+安徽黟县西递牌坊,http://gcksc.v.kcdnvip.com/gc/yxxdpf_1/index.m3u8
+安徽黟县西递牌坊,http://gccncc.v.wscdns.com/gc/yxxdpf_1/index.m3u8
+安徽黟县西递牌坊,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8
+安徽黟县宏村月沼,http://gcksc.v.kcdnvip.com/gc/yxhcyz_1/index.m3u8
+安徽黟县宏村月沼,http://gccncc.v.wscdns.com/gc/yxhcyz_1/index.m3u8
+安徽黟县宏村月沼,http://gcbsc.v.live.baishancdnx.cn/gc/yxhcyz_1/index.m3u8
+安徽黟县芦村远眺,http://gcksc.v.kcdnvip.com/gc/yxlcyt_1/index.m3u8
+安徽黟县芦村远眺,http://gcbsc.v.live.baishancdnx.cn/gc/yxlcyt_1/index.m3u8
+深圳世界之窗文化主题公园,http://gcksc.v.kcdnvip.com/gc/sjzc01_1/index.m3u8
+深圳世界之窗文化主题公园,http://gccncc.v.wscdns.com/gc/sjzc01_1/index.m3u8
+深圳世界之窗文化主题公园,http://gcbsc.v.live.baishancdnx.cn/gc/sjzc01_1/index.m3u8
+八达岭长城南七楼,http://gcksc.v.kcdnvip.com/gc/bgws7_1/index.m3u8
+八达岭长城南七楼,http://gcbsc.v.live.baishancdnx.cn/gc/bgws7_1/index.m3u8
+八达岭长城北十楼,http://gcksc.v.kcdnvip.com/gc/bgwn10_1/index.m3u8
+八达岭长城北十楼,http://gcbsc.v.live.baishancdnx.cn/gc/bgwn10_1/index.m3u8
+中央电视塔东,http://gcksc.v.kcdnvip.com/gc/ztd_1/index.m3u8
+中央电视塔东,http://gcbsc.v.live.baishancdnx.cn/gc/ztd_1/index.m3u8
+中央电视塔南,http://gcksc.v.kcdnvip.com/gc/ztn_1/index.m3u8
+中央电视塔南,http://gcbsc.v.live.baishancdnx.cn/gc/ztn_1/index.m3u8
+中央电视塔北,http://gcksc.v.kcdnvip.com/gc/ztb_1/index.m3u8
+中央电视塔北,http://gcbsc.v.live.baishancdnx.cn/gc/ztb_1/index.m3u8
+恒山悬空寺全景,http://gcksc.v.kcdnvip.com/gc/hsxksqj_1/index.m3u8
+恒山悬空寺全景,http://gccncc.v.wscdns.com/gc/hsxksqj_1/index.m3u8
+恒山悬空寺全景,http://gcbsc.v.live.baishancdnx.cn/gc/hsxksqj_1/index.m3u8
+恒宗,http://gcksc.v.kcdnvip.com/gc/hsxkssqdzrqj_1/index.m3u8
+恒宗,http://gccncc.v.wscdns.com/gc/hsxkssqdzrqj_1/index.m3u8
+恒宗,http://gcbsc.v.live.baishancdnx.cn/gc/hsxkssqdzrqj_1/index.m3u8
+黄果树银链坠潭瀑布,http://gcksc.v.kcdnvip.com/gc/hgsylztpb_1/index.m3u8
+黄果树银链坠潭瀑布,http://gccncc.v.wscdns.com/gc/hgsylztpb_1/index.m3u8
+黄果树银链坠潭瀑布,http://gcbsc.v.live.baishancdnx.cn/gc/hgsylztpb_1/index.m3u8
+黄果树六角亭瀑布,http://gcksc.v.kcdnvip.com/gc/hgsspzxdpb_1/index.m3u8
+黄果树六角亭瀑布,http://gccncc.v.wscdns.com/gc/hgsspzxdpb_1/index.m3u8
+黄果树六角亭瀑布,http://gcbsc.v.live.baishancdnx.cn/gc/hgsspzxdpb_1/index.m3u8
+天涯鸟瞰,http://gcksc.v.kcdnvip.com/gc/tyhjtynl_1/index.m3u8
+天涯鸟瞰,http://gcbsc.v.live.baishancdnx.cn/gc/tyhjtynl_1/index.m3u8
+天涯石,http://gcksc.v.kcdnvip.com/gc/tyhjtys_1/index.m3u8
+天涯石,http://gccncc.v.wscdns.com/gc/tyhjtys_1/index.m3u8
+天涯石,http://gcbsc.v.live.baishancdnx.cn/gc/tyhjtys_1/index.m3u8
+南天一柱,http://gcksc.v.kcdnvip.com/gc/tyhjntyz_1/index.m3u8
+南天一柱,http://gccncc.v.wscdns.com/gc/tyhjntyz_1/index.m3u8
+南天一柱,http://gcbsc.v.live.baishancdnx.cn/gc/tyhjntyz_1/index.m3u8
+日月石,http://gcksc.v.kcdnvip.com/gc/tyhjrys_1/index.m3u8
+日月石,http://gccncc.v.wscdns.com/gc/tyhjrys_1/index.m3u8
+日月石,http://gcbsc.v.live.baishancdnx.cn/gc/tyhjrys_1/index.m3u8
+平山湖大峡谷石林,http://gcksc.v.kcdnvip.com/gc/pshdxg02_1/index.m3u8
+平山湖大峡谷石林,http://gccncc.v.wscdns.com/gc/pshdxg02_1/index.m3u8
+平山湖大峡谷石林,http://gcbsc.v.live.baishancdnx.cn/gc/pshdxg02_1/index.m3u8
+桂林象山公园,http://gcksc.v.kcdnvip.com/gc/glxs01_1/index.m3u8
+桂林象山公园,http://gcbsc.v.live.baishancdnx.cn/gc/glxs01_1/index.m3u8
+六盘山红军长征景区,http://gcksc.v.kcdnvip.com/gc/lpsgmjng01_1/index.m3u8
+六盘山红军长征景区,http://gcbsc.v.live.baishancdnx.cn/gc/lpsgmjng01_1/index.m3u8
+华山,http://gcksc.v.kcdnvip.com/gc/hkhs01_1/index.m3u8
+华山,http://gcbsc.v.live.baishancdnx.cn/gc/hkhs01_1/index.m3u8
+贵州省兴义市万峰林,http://gcksc.v.kcdnvip.com/gc/xywfl_1/index.m3u8
+贵州省兴义市万峰林,http://gcbsc.v.live.baishancdnx.cn/gc/xywfl_1/index.m3u8
+贵州省兴义市马岭河峡谷,http://gcksc.v.kcdnvip.com/gc/xymlh_1/index.m3u8
+贵州省兴义市马岭河峡谷,http://gcbsc.v.live.baishancdnx.cn/gc/xymlh_1/index.m3u8
+贵州省贞丰市双乳峰景区,http://gcksc.v.kcdnvip.com/gc/xysrf_1/index.m3u8
+贵州省贞丰市双乳峰景区,http://gccncc.v.wscdns.com/gc/xysrf_1/index.m3u8
+贵州省贞丰市双乳峰景区,http://gcbsc.v.live.baishancdnx.cn/gc/xysrf_1/index.m3u8
+云南大理崇圣寺三塔中景,http://gcksc.v.kcdnvip.com/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔中景,http://gccncc.v.wscdns.com/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔中景,http://gcbsc.v.live.baishancdnx.cn/gc/dlst03_1/index.m3u8
+云南大理崇圣寺三塔湖面,http://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8
+云南大理崇圣寺三塔湖面,http://gccncc.v.wscdns.com/gc/dlst02_1/index.m3u8
+云南大理崇圣寺三塔湖面,http://gcbsc.v.live.baishancdnx.cn/gc/dlst02_1/index.m3u8
+云南大理崇圣寺三塔远景,http://gcksc.v.kcdnvip.com/gc/dlst01_1/index.m3u8
+云南大理崇圣寺三塔远景,http://gccncc.v.wscdns.com/gc/dlst01_1/index.m3u8
+云南大理崇圣寺三塔远景,http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8
+广西桂林漓江景区,http://gcksc.v.kcdnvip.com/gc/gllj01_1/index.m3u8
+广西桂林漓江景区,http://gccncc.v.wscdns.com/gc/gllj01_1/index.m3u8
+广西桂林漓江景区,http://gcbsc.v.live.baishancdnx.cn/gc/gllj01_1/index.m3u8
+青岛崂山双福,http://gcksc.v.kcdnvip.com/gc/qdls03_1/index.m3u8
+青岛崂山双福,http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8
+青岛崂山太清,http://gcksc.v.kcdnvip.com/gc/qdls04_1/index.m3u8
+青岛崂山太清,http://gccncc.v.wscdns.com/gc/qdls04_1/index.m3u8
+青岛崂山太清,http://gcbsc.v.live.baishancdnx.cn/gc/qdls04_1/index.m3u8
+青岛崂山灵旗峰,http://gcksc.v.kcdnvip.com/gc/qdls01_1/index.m3u8
+青岛崂山灵旗峰,http://gcbsc.v.live.baishancdnx.cn/gc/qdls01_1/index.m3u8
+青岛崂山八水河,http://gcksc.v.kcdnvip.com/gc/qdls02_1/index.m3u8
+青岛崂山八水河,http://gcbsc.v.live.baishancdnx.cn/gc/qdls02_1/index.m3u8
+三亚南山文化旅游区海上观音,http://gcksc.v.kcdnvip.com/gc/syns01_1/index.m3u8
+三亚南山文化旅游区海上观音,http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
+三亚南山文化旅游区海上观音,http://gcbsc.v.live.baishancdnx.cn/gc/syns01_1/index.m3u8
+仙都风景区,http://gcksc.v.kcdnvip.com/gc/xdfjq01_1/index.m3u8
+仙都风景区,http://gcbsc.v.live.baishancdnx.cn/gc/xdfjq01_1/index.m3u8
+仙都风景区,http://gctxyc.liveplay.myqcloud.com/gc/xdfjq01_1/index.m3u8
+宁夏黄河大峡谷,http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
+宁夏黄河大峡谷,http://gccncc.v.wscdns.com/gc/hhdxg01_1/index.m3u8
+宁夏黄河大峡谷,http://gcbsc.v.live.baishancdnx.cn/gc/hhdxg01_1/index.m3u8
+张掖七彩丹霞,http://gcksc.v.kcdnvip.com/gc/zyqcdx01_1/index.m3u8
+张掖七彩丹霞,http://gcbsc.v.live.baishancdnx.cn/gc/zyqcdx01_1/index.m3u8
+嵩山少林寺广场,http://gcksc.v.kcdnvip.com/gc/zsslsgc_1/index.m3u8
+嵩山少林寺广场,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsgc_1/index.m3u8
+婺源01,http://gcksc.v.kcdnvip.com/gc/wygjt1_1/index.m3u8
+婺源01,http://gccncc.v.wscdns.com/gc/wygjt1_1/index.m3u8
+婺源01,http://gcbsc.v.live.baishancdnx.cn/gc/wygjt1_1/index.m3u8
+神农架金丝猴01,http://gcksc.v.kcdnvip.com/gc/jshhd01_1/index.m3u8
+神农架金丝猴01,http://gccncc.v.wscdns.com/gc/jshhd01_1/index.m3u8
+神农架金丝猴01,http://gcbsc.v.live.baishancdnx.cn/gc/jshhd01_1/index.m3u8
+都江堰鱼嘴,http://gcksc.v.kcdnvip.com/gc/djyqyl1_1/index.m3u8
+都江堰鱼嘴,http://gccncc.v.wscdns.com/gc/djyqyl1_1/index.m3u8
+都江堰鱼嘴,http://gcbsc.v.live.baishancdnx.cn/gc/djyqyl1_1/index.m3u8
+丹霞山丹梯铁锁,http://gcksc.v.kcdnvip.com/gc/dxsdtts_1/index.m3u8
+丹霞山丹梯铁锁,http://gcbsc.v.live.baishancdnx.cn/gc/dxsdtts_1/index.m3u8
+丹霞山韶音亭,http://gcksc.v.kcdnvip.com/gc/dxssyt_1/index.m3u8
+丹霞山韶音亭,http://gcbsc.v.live.baishancdnx.cn/gc/dxssyt_1/index.m3u8
+云南红河哈尼梯田多依树景点,http://gcksc.v.kcdnvip.com/gc/hnttdysjd_1/index.m3u8
+云南红河哈尼梯田多依树景点,http://gcbsc.v.live.baishancdnx.cn/gc/hnttdysjd_1/index.m3u8
+云南红河哈尼梯田普高老寨,http://gcksc.v.kcdnvip.com/gc/hnttpgsz_1/index.m3u8
+云南红河哈尼梯田普高老寨,http://gcbsc.v.live.baishancdnx.cn/gc/hnttpgsz_1/index.m3u8
+云南红河哈尼梯田老虎嘴,http://gcksc.v.kcdnvip.com/gc/hnttlhzjd_1/index.m3u8
+云南红河哈尼梯田老虎嘴,http://gcbsc.v.live.baishancdnx.cn/gc/hnttlhzjd_1/index.m3u8
+江西龙虎山中间水泡,http://gcksc.v.kcdnvip.com/gc/lhszjsp_1/index.m3u8
+江西龙虎山中间水泡,http://gcbsc.v.live.baishancdnx.cn/gc/lhszjsp_1/index.m3u8
+江西龙虎山山涧栈道,http://gcksc.v.kcdnvip.com/gc/lhssjzd_1/index.m3u8
+江西龙虎山山涧栈道,http://gccncc.v.wscdns.com/gc/lhssjzd_1/index.m3u8
+江西龙虎山山涧栈道,http://gcbsc.v.live.baishancdnx.cn/gc/lhssjzd_1/index.m3u8
+乐山大佛全景,http://gcksc.v.kcdnvip.com/gc/lsdfgfl_1/index.m3u8
+乐山大佛全景,http://gccncc.v.wscdns.com/gc/lsdfgfl_1/index.m3u8
+乐山大佛全景,http://gcbsc.v.live.baishancdnx.cn/gc/lsdfgfl_1/index.m3u8
+福建武夷山玉女峰,http://gcksc.v.kcdnvip.com/gc/wysynf_1/index.m3u8
+福建武夷山玉女峰,http://gccncc.v.wscdns.com/gc/wysynf_1/index.m3u8
+福建武夷山玉女峰,http://gcbsc.v.live.baishancdnx.cn/gc/wysynf_1/index.m3u8
+为天使护航,http://gcksc.v.kcdnvip.com/gc/zsslsfwsgz_1/index.m3u8
+为天使护航,http://gcbsc.v.live.baishancdnx.cn/gc/zsslsfwsgz_1/index.m3u8
+
+
+🐼MTV 👉喜,#genre#
+放不下你如何放过自己,https://vd3.bdstatic.com/mda-pj4c6e87s0ci3ted/sc/cae_h264/1696501509660065032/mda-pj4c6e87s0ci3ted.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1697641408-0-0-b7f5254969edb250ed51a501418c3a66&bcevod_channel=searchbox_feed&pd=1&cr=2&cd=0&pt=3&logid=0208550516&vid=6049803654467634781&klogid=0208550516&abtest=112954_1-113704_1
+放不下你如何放过自己,https://kvideo01.youju.sohu.com/036f4ff8-9d08-489a-bb78-d5964722293e2_0_0.mp4?sign=63e3183888be66d74d48376aad945892&t=1697651953
+怀旧音乐,http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+怀旧合集,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+经典合集,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+经典合集2,http://vodcdn.video.taobao.com/oss/ali-video/f2b27944f9960f3dbb2c6dd6c4679747/video.m3u8
+杨丽珍_虚情的爱,https://vd2.bdstatic.com/mda-mi1dd05gmhwejdwn/sc/cae_h264/1630576203346678103/mda-mi1dd05gmhwejdwn.mp4
+杨丽珍_情为何物,https://vd2.bdstatic.com/mda-nk3am8nwdgqfy6nh/sc/cae_h264/1667555203921394810/mda-nk3am8nwdgqfy6nh.mp4
+杨丽珍_想念你,https://vd2.bdstatic.com/mda-iggwqt9cezpyirjn/sc/mda-iggwqt9cezpyirjn.mp4
+梦里水乡,https://vd4.bdstatic.com/mda-mcc5ichr42qg4r1p/720p/h264_cae/1620799161082799399/mda-mcc5ichr42qg4r1p.mp4
+酒梦,https://vd4.bdstatic.com/mda-jjbj71ymtth36pvu/sc/mda-jjbj71ymtth36pvu.mp4
+月老掉线,https://vd3.bdstatic.com/mda-ndd3ta6xy3x4ybtf/720p/h264_delogo/1649904116948342384/mda-ndd3ta6xy3x4ybtf.mp4
+晚风心里吹,https://vd2.bdstatic.com/mda-ndpg29kxui1g1xrj/sc/cae_h264_delogo/1650799724379445533/mda-ndpg29kxui1g1xrj.mp4
+九十九步退一步,https://vd2.bdstatic.com/mda-nbk88c8b5d4vsf2m/sc/cae_h264_delogo/1645443281073338534/mda-nbk88c8b5d4vsf2m.mp4
+好多倩_夜夜夜漫长,https://vd4.bdstatic.com/mda-mcm1j9nnz5xxyhar/720p/h264_cae/1621016873537262108/mda-mcm1j9nnz5xxyhar.mp4
+张杰-星星,https://vd3.bdstatic.com/mda-mcf4jracp0aq1b64/sc/cae_h264/1615836158/mda-mcf4jracp0aq1b64.mp4
+小虎队-星星的约会,https://vd2.bdstatic.com/mda-kc3gqfxzi4zgfr2w/sc/mda-kc3gqfxzi4zgfr2w.mp4
+想你的时候问月亮,https://vdse.bdstatic.com//ec33a3aaab2aafb34d5816962f2a5ae5.mp4
+刀郎-守候在凌晨两点的伤心秀吧,https://vd3.bdstatic.com/mda-ierq2z9f1exw934e/logo/hd/mda-ierq2z9f1exw934e.mp4
+刀郎-手心里的温柔,https://vd4.bdstatic.com/mda-kj18fhzhecfm9trb/hd/mda-kj18fhzhecfm9trb.mp4
+杨紫琼_爱似流星,https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
+沉默是金,https://vd3.bdstatic.com/mda-mh05cp7e5775a9z2/sc/cae_h264/1627790223084175256/mda-mh05cp7e5775a9z2.mp4
+伤心的酒吧,https://vd2.bdstatic.com/mda-mhtaxwen3yutpdku/sc/cae_h264/1630136866503133016/mda-mhtaxwen3yutpdku.mp4
+西海情歌,https://vd2.bdstatic.com/mda-jf9c1fkgucw29pg8/sc/mda-jf9c1fkgucw29pg8.mp4
+暗里着迷-亮声,https://vd2.bdstatic.com/mda-nj0ahm6t2ib5n2jy/720p/h264/1664610158927030550/mda-nj0ahm6t2ib5n2jy.mp4
+只要你还需要我,https://vd2.bdstatic.com/mda-ndi3uvmd0qrjvgps/sc/cae_h264_delogo/1650337256524390613/mda-ndi3uvmd0qrjvgps.mp4
+酒醉的蝴蝶,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgjvvL9QUo3cjNuQY.mp4
+
+
+
+🌃春晚 👉發,#genre#
+春晚1984,http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
+春晚1985,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
+春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
+西游齐天乐1987,http://50069.njc.svp.tencent-cloud.com/0bc3fuaaiaaavuaibgr5f5rfalodaqwqabaa.f10003.mp4
+春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
+春晚1989,http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
+春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
+春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
+春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
+春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
+春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
+春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
+春晚2021,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
+春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
+春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
+春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
+春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
+春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
+春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
+春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
+春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
+春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
+春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+
+🎎内测 👉财_0001,#genre#
+欧美频道1,http://cdn.adultiptv.net/bigass.m3u8 
+欧美频道2,http://cdn.adultiptv.net/blowjob.m3u8 
+欧美频道3,http://cdn.adultiptv.net/latina.m3u8 
+欧美频道4,http://cdn.adultiptv.net/fetish.m3u8 
+欧美频道5,http://cdn.adultiptv.net/gay.m3u8 
+欧美频道6,http://cdn.adultiptv.net/interracial.m3u8 
+欧美频道7,http://cdn.adultiptv.net/threesome.m3u8 
+欧美频道8,http://cdn.adultiptv.net/pornstar.m3u8 
+欧美频道9,http://cdn.adultiptv.net/milf.m3u8 
+欧美频道10,http://cdn.adultiptv.net/teen.m3u8 
+欧美频道11,http://cdn.adultiptv.net/anal.m3u8
+欧美频道12,http://cdn.adultiptv.net/asian.m3u8
+欧美频道13,http://cdn.adultiptv.net/bigass.m3u8
+欧美频道14,http://cdn.adultiptv.net/bigtits.m3u8
+欧美频道15,http://cdn.adultiptv.net/blonde.m3u8
+欧美频道16,http://cdn.adultiptv.net/blowjob.m3u8 
+欧美频道17,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道18,http://cdn.adultiptv.net/compilation.m3u8
+欧美频道19,http://cdn.adultiptv.net/cuckold.m3u8
+欧美频道20,http://cdn.adultiptv.net/fetish.m3u8
+欧美频道21,http://cdn.adultiptv.net/gangbang.m3u8
+欧美频道22,http://cdn.adultiptv.net/gay.m3u8
+欧美频道23,http://cdn.adultiptv.net/hardcore.m3u8
+欧美频道24,http://cdn.adultiptv.net/interracial.m3u8
+欧美频道25,http://cdn.adultiptv.net/latina.m3u8
+欧美频道26,http://cdn.adultiptv.net/lesbian.m3u8
+欧美频道27,http://cdn.adultiptv.net/livecams.m3u8
+欧美频道28,http://cdn.adultiptv.net/milf.m3u8
+欧美频道29,http://cdn.adultiptv.net/pornstar.m3u8
+欧美频道30,http://cdn.adultiptv.net/pov.m3u8
+欧美频道31,http://cdn.adultiptv.net/rough.m3u8
+欧美频道32,http://cdn.adultiptv.net/russian.m3u8
+欧美频道33,http://cdn.adultiptv.net/teen.m3u8
+欧美频道34,http://cdn.adultiptv.net/brunette.m3u8
+欧美频道35,http://cdn.adultiptv.net/bigtits.m3u8 
+欧美频道36,http://cdn.adultiptv.net/rough.m3u8 
+欧美频道37,http://cdn.adultiptv.net/brunette.m3u8 
+
+午夜1,http://live.redtraffic.xyz:80/interracial.m3u8
+午夜2,http://live.redtraffic.xyz:80/bigtits.m3u8
+午夜3,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
+午夜4,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
+午夜5,http://live.redtraffic.xyz/lesbian.m3u8?fluxuslust.m3u8
+午夜6,http://cdn.adultiptv.net/lesbian.m3u8
+午夜7,http://live.redtraffic.xyz:80/teen.m3u8
+午夜8,http://live.redtraffic.xyz:80/pornstar.m3u8
+午夜9,http://live.redtraffic.xyz/milf.m3u8?fluxuslust.m3u8
+午夜10,http://live.redtraffic.xyz:80/cuckold.m3u8
+午夜11,http://live.redtraffic.xyz/pornstar.m3u8?fluxuslust.m3u8
+
+🎎宇宙 👉完_9999,#genre#
+直播 720,http://cdn.adultiptv.net/livecams.m3u8
+广交 720,http://cdn.adultiptv.net/anal.m3u8
+巨好 720,http://cdn.adultiptv.net/bigass.m3u8
+大鸟 720,http://cdn.adultiptv.net/bigdick.m3u8
+爆热 720,http://cdn.adultiptv.net/bigtits.m3u8
+金发 720,http://cdn.adultiptv.net/blonde.m3u8
+口健 720,http://cdn.adultiptv.net/blowjob.m3u8
+褐发 720,http://cdn.adultiptv.net/brunette.m3u8
+合集 720,http://cdn.adultiptv.net/compilation.m3u8
+绿帽 720,http://cdn.adultiptv.net/cuckold.m3u8
+恋物 720,http://cdn.adultiptv.net/fetish.m3u8
+群健 720,http://cdn.adultiptv.net/gangbang.m3u8
+男同 720,http://cdn.adultiptv.net/gay.m3u8
+硬核 720,http://cdn.adultiptv.net/hardcore.m3u8
+异种 720,http://cdn.adultiptv.net/interracial.m3u8
+拉丁 720,http://cdn.adultiptv.net/latina.m3u8
+女同 720,http://cdn.adultiptv.net/lesbian.m3u8
+少妇 720,http://cdn.adultiptv.net/milf.m3u8
+色星 720,http://cdn.adultiptv.net/pornstar.m3u8
+第一视角 720,http://cdn.adultiptv.net/pov.m3u8
+粗播 720,http://cdn.adultiptv.net/rough.m3u8
+俄罗斯 720,http://cdn.adultiptv.net/russian.m3u8
+少女 720,http://cdn.adultiptv.net/teen.m3u8
+三人 720,http://cdn.adultiptv.net/threesome.m3u8
+
+恶魔美女1,https://stream4k.embeddrive.net/playlists/d421cfa8-864e-464b-8778-a600a13344ba/cf.m3u8
+湖恐2,https://stream4k.embeddrive.net/playlists/816f3331-f70d-435c-aa67-031c85bab4f7/cf.m3u8
+笼子里的女孩 / 色情3,https://stream4k.embeddrive.net/playlists/3f3d5cbf-fe1d-4892-8a14-bc77f2764e44/cf.m3u8
+井中的女孩5,https://stream4k.embeddrive.net/playlists/fec499b4-0c7e-4669-837e-71dd78e22489/cf.m3u8
+扭曲的欲望6,https://stream4k.embeddrive.net/playlists/0c1f8759-5511-4529-96a3-3044edd7dd52/cf.m3u8
+天黑后的7,https://stream4k.embeddrive.net/playlists/3508afaf-bebf-42ce-8bda-e5ce2f6170ac/cf.m3u8
+来自的护士8,https://stream4k.embeddrive.net/playlists/51504417-288a-4212-8fae-8c97abb5733e/cf.m3u8
+野兽9,https://stream4k.embeddrive.net/playlists/a226a156-32d0-4081-8fd5-8f62951cdcf2/cf.m3u8
+针头10,https://stream4k.embeddrive.net/playlists/d4d6d998-e689-4b5a-8d1e-248bea9c604d/cf.m3u8
+地在监11,https://stream4k.embeddrive.net/playlists/63c2dd09-0b7b-49bd-9c5d-4571676170aa/cf.m3u8
+四12,https://stream4k.embeddrive.net/playlists/90feac80-59cc-4a57-bc33-df694fdef5a1/cf.m3u8
+医院灵13,https://stream4k.embeddrive.net/playlists/1db7732b-8d71-40fc-bf71-00674d63bd28/cf.m3u8
+逆时而上15,https://stream4k.embeddrive.net/playlists/f73627a2-0bd9-45dc-9651-60856079cf2c/cf.m3u8
+扭曲的家庭16,https://stream4k.embeddrive.net/playlists/e85848bb-4fdc-409c-b8f3-95efb7a45cea/cf.m3u8
+女蜘蛛17,https://stream4k.embeddrive.net/playlists/538a1612-fe44-4a24-b2ec-7ce34c892927/cf.m3u8
+心灵的魔18,https://stream4k.embeddrive.net/playlists/497b541b-8951-4aaf-aac7-f086e87f4fcc/cf.m3u8
+IT是小丑19,https://stream4k.embeddrive.net/playlists/b199e586-3a61-450e-957f-be217e15c428/cf.m3u8
+行走尸20,https://stream4k.embeddrive.net/playlists/52444ef2-0558-463d-bc7b-403a4788c29f/cf.m3u8
+亚马逊21,https://stream4k.embeddrive.net/playlists/16b12eb5-d9fc-4e62-b86b-93efbe033f6a/cf.m3u8
+邪亡22,https://stream4k.embeddrive.net/playlists/10174b2f-1baf-4bfc-8953-ca75dc0b5e53/cf.m3u8
+弗雷迪23,https://stream4k.embeddrive.net/playlists/004fdf16-0b24-4565-8a98-1e7a1868e0a7/cf.m3u8
+扭曲的母亲24,https://stream4k.embeddrive.net/playlists/d1d5a004-18aa-4353-b698-4df08e4d9a74/cf.m3u8
+怪胎屋： 三角女25,https://stream4k.embeddrive.net/playlists/a73d24f1-2e15-45fb-82b4-4b99309f218d/cf.m3u8
+坏圣诞老人26,https://stream4k.embeddrive.net/playlists/1a5122e9-f522-468d-ac1b-e7ba6810fd62/cf.m3u8
+地之灵 127 第 1 部分,https://stream4k.embeddrive.net/playlists/63dbaee2-2deb-412e-87af-7394d14bcab7/cf.m3u8
+地幽灵 227 第 2 部分,https://stream4k.embeddrive.net/playlists/647e825f-0f18-425d-adf2-d6bafef0486c/cf.m3u8
+被抛弃在狱28,https://stream4k.embeddrive.net/playlists/e0492b6e-bf09-4974-87e6-ed2920dc46f6/cf.m3u8
+怪异的房子：暹罗双胞胎29,https://stream4k.embeddrive.net/playlists/a0b47557-2e5e-48b0-a541-28c85be8b8f3/cf.m3u8
+黑色弥撒30,https://stream4k.embeddrive.net/playlists/bcf22a80-f183-4922-bebc-81e965af78cc/cf.m3u8
+精神分双胞胎32,https://stream4k.embeddrive.net/playlists/ea362f03-a2d3-4978-afa8-be7822c684ba/cf.m3u8
+罗斯威尔碟33,https://stream4k.embeddrive.net/playlists/2e974817-5cd5-4174-92ae-cb6759d6774e/cf.m3u8
+怪的房子：双猫的美丽34,https://stream4k.embeddrive.net/playlists/f7b3c81c-a84c-45e3-aee5-cd835a618e7d/cf.m3u8
+屠35,https://stream4k.embeddrive.net/playlists/b84dd48d-3fb2-4d05-8bfe-8b3145166bf8/cf.m3u8
+驱魔人36,https://stream4k.embeddrive.net/playlists/77b32158-f0c2-4e84-9051-59362aafe023/cf.m3u8
+兔子小屋37,https://stream4k.embeddrive.net/playlists/db2bf218-c1d8-4707-9638-9545cce919a9/cf.m3u8
+怪异的房子-猫咪物38,https://stream4k.embeddrive.net/playlists/4ac9ffed-d9d8-467f-8f6b-35390edaa23f/cf.m3u8
+树林里的兽39,https://stream4k.embeddrive.net/playlists/efdb7786-8056-452a-80f1-8497d0e4e53b/cf.m3u8
+恶的抓地力40,https://stream4k.embeddrive.net/playlists/186fa87a-50e2-49f9-8f7e-69ed16d51fd5/cf.m3u8
+该死的修女41,https://stream4k.embeddrive.net/playlists/e75e1def-8f64-4fd8-9481-6ea18701ff0f/cf.m3u8
+恋物癖42,https://stream4k.embeddrive.net/playlists/236d6c0b-3f27-42a5-bbd2-5185a8fe3db0/cf.m3u8
+牙医43,https://stream4k.embeddrive.net/playlists/7d604567-b4f1-432a-a494-cfb68c8a4f82/cf.m3u8
+地狱锄头44,https://stream4k.embeddrive.net/playlists/627e5618-c270-4204-a3a8-cd480058b0c1/cf.m3u8
+蒙面心理45,https://stream4k.embeddrive.net/playlists/13b79b0a-f430-4e1a-9389-ac9b48477e15/cf.m3u8
+昆图胡46,https://stream4k.embeddrive.net/playlists/a2239c43-5903-4678-8edf-6db3fb492564/cf.m3u8
+贪吃47,https://stream4k.embeddrive.net/playlists/3938393f-f972-4a97-8c4a-8e168aeb6ba4/cf.m3u8
+僵 - 罢工： 起源48,https://stream4k.embeddrive.net/playlists/b6881343-852a-40a1-9238-545b98d80184/cf.m3u8
+捕者 迪克人49,https://stream4k.embeddrive.net/playlists/142e0205-ce5a-484c-8296-e18fb84b7e02/cf.m3u8
+
+加勒比112318美月,https://fc.maa1804.com/g/ijttkoqump/ijttkoqump.m3u8
+加勒比120316音羽,https://fc.maa1804.com/f/rnczxtyxch/rnczxtyxch.m3u8
+加勒比090716西川,https://fc.maa1804.com/d/fhctzryess/fhctzryess.m3u8
+加勒比072117七濑,https://fc.maa1804.com/h/evzmbhpmfo/evzmbhpmfo.m3u8
+加勒比112718羽田真裡,https://fc.maa1804.com/f/jlntoqhqui/jlntoqhqui.m3u8
+加勒比060216美笑结衣,https://fc.maa1804.com/e/okxoirrjpv/okxoirrjpv.m3u8
+加勒比111913中野,https://fc.maa1804.com/n/paeuhdhlfl/paeuhdhlfl.m3u8
+加勒比052814樱井,https://fc.maa1804.com/f/stasfhodif/stasfhodif.m3u8
+加勒比030415樱井,https://fc.maa1804.com/c/yrjzwhdfnl/yrjzwhdfnl.m3u8
+加勒比052317姬川,https://fc.maa1804.com/g/vphfeljbji/vphfeljbji.m3u8
+加勒比120117铃木,https://fc.maa1804.com/f/znyfifzqip/znyfifzqip.m3u8
+加勒比120216双叶,https://fc.maa1804.com/h/xtnyuspejl/xtnyuspejl.m3u8
+加勒比112316梢,https://fc.maa1804.com/b/dcopzmdvne/dcopzmdvne.m3u8
+加勒比112316白砂,https://fc.maa1804.com/n/hnalcnmzly/hnalcnmzly.m3u8
+加勒比112018椎名华,https://fc.maa1804.com/f/mkumllunom/mkumllunom.m3u8
+加勒比111817神田,https://fc.maa1804.com/c/rhmiiydppe/rhmiiydppe.m3u8
+加勒比111618百多,https://fc.maa1804.com/h/lpktlslmoe/lpktlslmoe.m3u8
+加勒比111318小早川怜子,https://fc.maa1804.com/m/mqqqmnhwon/mqqqmnhwon.m3u8
+加勒比111717白石真琴,https://fc.maa1804.com/f/rpxazqllxa/rpxazqllxa.m3u8
+加勒比111417朝桐光,https://fc.maa1804.com/g/wkroppotwe/wkroppotwe.m3u8
+加勒比111018美月,https://fc.maa1804.com/e/orwgpqkpnv/orwgpqkpnv.m3u8
+加勒比110918亚美,https://fc.maa1804.com/e/pilmowrtvk/pilmowrtvk.m3u8
+加勒比111017天音,https://fc.maa1804.com/h/supgmelrff/supgmelrff.m3u8
+加勒比110418真白,https://fc.maa1804.com/g/rsljijuhsn/rsljijuhsn.m3u8
+加勒比111117七濑,https://fc.maa1804.com/m/dhqheeygox/dhqheeygox.m3u8
+加勒比110717丘笑,https://fc.maa1804.com/f/dkpfeyqgrj/dkpfeyqgrj.m3u8
+加勒比110218仲村,https://fc.maa1804.com/c/nqkumlvcrq/nqkumlvcrq.m3u8
+加勒比103117水树,https://fc.maa1804.com/h/ylgnovsomq/ylgnovsomq.m3u8
+加勒比102117清水爱梨,https://fc.maa1804.com/g/gxefjnwrpd/gxefjnwrpd.m3u8
+加勒比101918日高千晶，https://fc.maa1804.com/g/wnjkkkhrem/wnjkkkhrem.m3u8
+加勒比102618青山,https://fc.maa1804.com/e/uqomnopjjl/uqomnopjjl.m3u8
+加勒比102717美优,https://fc.maa1804.com/b/akumhzwlmn/akumhzwlmn.m3u8
+加勒比102318小早川怜子,https://fc.maa1804.com/h/okphusulnk/okphusulnk.m3u8
+加勒比110417水鸟文乃,https://fc.maa1804.com/g/vbdcerdriu/vbdcerdriu.m3u8
+加勒比110217双叶朝比奈菜子,https://fc.maa1804.com/f/meqmhrnmjy/meqmhrnmjy.m3u8
+加勒比102017生岛凉,https://fc.maa1804.com/f/erxwhitgwo/erxwhitgwo.m3u8
+加勒比101718百多,https://fc.maa1804.com/m/moqjmmjojn/moqjmmjojn.m3u8
+加勒比101717结希真琴,https://fc.maa1804.com/c/cfbgufvggs/cfbgufvggs.m3u8
+加勒比101618羽田真裡,https://fc.maa1804.com/d/orqsmptjrn/orqsmptjrn.m3u8
+加勒比101318专用肥皂,https://fc.maa1804.com/m/mqonningom/mqonningom.m3u8
+加勒比101218小野寺梨纱,https://fc.maa1804.com/c/qjlojluhvv/qjlojluhvv.m3u8
+加勒比101017七濑,https://fc.maa1804.com/f/pwkupqugdm/pwkupqugdm.m3u8
+加勒比100717北川,https://fc.maa1804.com/n/sfxuwjeqel/sfxuwjeqel.m3u8
+加勒比100518上山奈,https://fc.maa1804.com/g/ourljpopnt/ourljpopnt.m3u8
+加勒比100317君岛,https://fc.maa1804.com/h/zkxlkocdxl/zkxlkocdxl.m3u8
+加勒比092918美波,https://fc.maa1804.com/g/ekpqjlljqg/ekpqjlljqg.m3u8
+加勒比092818仲村,https://fc.maa1804.com/m/jnpjoqhnir/jnpjoqhnir.m3u8
+加勒比092917美优,https://fc.maa1804.com/c/zsewpmattg/zsewpmattg.m3u8
+加勒比092518小野寺梨纱,https://fc.maa1804.com/e/lpfqppikji/lpfqppikji.m3u8
+加勒比092617美月,https://fc.maa1804.com/m/bqwgxeqchj/bqwgxeqchj.m3u8
+加勒比092318美笑爱,https://fc.maa1804.com/c/rnpmkvqfrr/rnpmkvqfrr.m3u8
+加勒比092317水鸟文乃,https://fc.maa1804.com/h/irpvrehslk/irpvrehslk.m3u8
+加勒比092217立花琉莉,https://fc.maa1804.com/g/xrneddrqnv/xrneddrqnv.m3u8
+加勒比092118美月,https://fc.maa1804.com/f/tlqrirkooq/tlqrirkooq.m3u8
+加勒比091818美香,https://fc.maa1804.com/n/knfqnnllfp/knfqnnllfp.m3u8
+加勒比091917小野寺梨纱,https://fc.maa1804.com/n/dmgbysuudf/dmgbysuudf.m3u8
+加勒比091717葵千惠,https://fc.maa1804.com/m/gfcxlkekjk/gfcxlkekjk.m3u8
+加勒比091618夏目,https://fc.maa1804.com/g/mntmspnmpm/mntmspnmpm.m3u8
+加勒比091617生岛凉,https://fc.maa1804.com/e/eisniscomw/eisniscomw.m3u8
+加勒比091518朝比奈菜子2人,https://fc.maa1804.com/n/pmyfmpdpvp/pmyfmpdpvp.m3u8
+加勒比091517华音,https://fc.maa1804.com/h/rjmcznbeku/rjmcznbeku.m3u8
+加勒比091418亚美,https://fc.maa1804.com/d/lrkumlkmki/lrkumlkmki.m3u8
+加勒比091217深美,https://fc.maa1804.com/m/zacnrjhmnn/zacnrjhmnn.m3u8
+加勒比091118沙藤,https://fc.maa1804.com/g/gqklqrooli/gqklqrooli.m3u8
+加勒比090817神田,https://fc.maa1804.com/g/xvbqwmnpqm/xvbqwmnpqm.m3u8
+加勒比112418原,https://fc.maa1804.com/e/kuqkhrmhpo/kuqkhrmhpo.m3u8
+C0930今杉香帆子,https://fc.maa1804.com/e/kjkrnilrqm/kjkrnilrqm.m3u8
+C0930中江寻乃,https://fc.maa1804.com/n/gemfgbagrl/gemfgbagrl.m3u8
+heyzo0581川岛,https://fc.maa1804.com/m/bccccoaite/bccccoaite.m3u8
+heyzo1457笑田凛,https://fc.maa1804.com/b/ejgoepbpqz/ejgoepbpqz.m3u8
+heyzo1357春日部,https://fc.maa1804.com/m/xdasdgvdzp/xdasdgvdzp.m3u8
+heyzo1445长谷川,https://fc.maa1804.com/e/qkqajdfulg/qkqajdfulg.m3u8
+一道073015美星,https://fc.maa1804.com/n/jankufiltx/jankufiltx.m3u8
+一道100317碧,https://fc.maa1804.com/e/ganqalkwlc/ganqalkwlc.m3u8
+一道051614音羽,https://fc.maa1804.com/n/voobaailua/voobaailua.m3u8
+一道010513爱原,https://fc.maa1804.com/b/whsacldsob/whsacldsob.m3u8
+一道072916青山未来,https://fc.maa1804.com/b/tjofshghra/tjofshghra.m3u8
+素人H4610铃,https://fc.maa1804.com/g/wodhvufljw/wodhvufljw.m3u8
+素人H0930铃,https://fc.maa1804.com/b/cevumxmskf/cevumxmskf.m3u8
+型号秋元花,https://fc.maa1804.com/h/eactfldcal/eactfldcal.m3u8
+paco121214美女,https://fc.maa1804.com/m/copcxwurwe/copcxwurwe.m3u8
+paco123116水笑菜美,https://fc.maa1804.com/b/xgjpkphidn/xgjpkphidn.m3u8
+paco090217大泽,https://fc.maa1804.com/b/hamagcjsci/hamagcjsci.m3u8
+paco081018江波,https://fc.maa1804.com/n/jntudoruim/jntudoruim.m3u8
+paco070117希笑,https://fc.maa1804.com/m/rwrhezjunn/rwrhezjunn.m3u8
+paco060217朝桐光,https://fc.maa1804.com/n/eeuydcldgn/eeuydcldgn.m3u8
+paco40518白笑奈子,https://fc.maa1804.com/n/qmbccmzdem/qmbccmzdem.m3u8
+paco032517白笑奈子,https://fc.maa1804.com/h/qvwodhvufl/qvwodhvufl.m3u8
+paco092713白笑奈那子,https://fc.maa1804.com/c/aouscieufe/aouscieufe.m3u8
+paco010819有贺,https://fc.maa1804.com/h/ofnokltorn/ofnokltorn.m3u8
+东京k1464松冈美织,https://fc.maa1804.com/e/lyimkdjwgp/lyimkdjwgp.m3u8
+东京1245松冈美织,https://fc.maa1804.com/c/epwfulwxdd/epwfulwxdd.m3u8
+东京1246松冈美织,https://fc.maa1804.com/f/telmnplwqh/telmnplwqh.m3u8
+东京k1462黑田瑞穗,https://fc.maa1804.com/d/wndkzngrlb/wndkzngrlb.m3u8
+东京1457藤,https://fc.maa1804.com/f/atqbboxgts/atqbboxgts.m3u8
+Tokyok1455渡部晴香,https://fc.maa1804.com/b/tsqpoirhrv/tsqpoirhrv.m3u8
+Tokyok1450今井菜那,https://fc.maa1804.com/f/ssgxgzxqcz/ssgxgzxqcz.m3u8
+Tokyon1243樱井茉莉加,https://fc.maa1804.com/g/khomddbsac/khomddbsac.m3u8
+Tokyon1244樱井茉莉加,https://fc.maa1804.com/e/dctmfqofhz/dctmfqofhz.m3u8
+东京k1442浅见,https://fc.maa1804.com/h/ednbqwbvvd/ednbqwbvvd.m3u8
+东京k1436吉野美雪,https://fc.maa1804.com/c/mhasieahkz/mhasieahkz.m3u8
+东京k1421山下美树,https://fc.maa1804.com/g/yxkqinaaxp/yxkqinaaxp.m3u8
+东京天空284高桥,https://fc.maa1804.com/e/tjworlvkfs/tjworlvkfs.m3u8
+东京红186绫濑,https://fc.maa1804.com/c/ozjcthnawu/ozjcthnawu.m3u8
+东京1085小野美菜,https://fc.maa1804.com/e/bytjfeaggr/bytjfeaggr.m3u8
+东京1060中泽真纪,https://fc.maa1804.com/e/teggwfnphy/teggwfnphy.m3u8
+Tokyok1253西岛由比,https://fc.maa1804.com/h/vrefukmnip/vrefukmnip.m3u8
+Tokyok1250裡见,https://fc.maa1804.com/m/ztfuovxbul/ztfuovxbul.m3u8
+Tokyok1230本田育奈,https://fc.maa1804.com/d/jpuekttclr/jpuekttclr.m3u8
+东京1167渡边伊代,https://fc.maa1804.com/b/hypjqzvbze/hypjqzvbze.m3u8
+东京k1384西川美帆,https://fc.maa1804.com/d/fugwtjgrds/fugwtjgrds.m3u8
+Tokyok1374金桥结衣,https://fc.maa1804.com/e/tcsezwdrlo/tcsezwdrlo.m3u8
+东京1372杉崎明美,https://fc.maa1804.com/n/sitamssouc/sitamssouc.m3u8
+东京k1327石田温子,https://fc.maa1804.com/f/nzhowqhcas/nzhowqhcas.m3u8
+东京1043赤误璃衣,https://fc.maa1804.com/g/kctvzqcszd/kctvzqcszd.m3u8
+东京1140萩原果步,https://fc.maa1804.com/h/ioamavnkeg/ioamavnkeg.m3u8
+东京1139吉泽美奈,https://fc.maa1804.com/b/mmlmympllw/mmlmympllw.m3u8
+东京n1138木下明日香石田温子,https://fc.maa1804.com/d/nbzegiuqwb/nbzegiuqwb.m3u8
+东京1125稻森,https://fc.maa1804.com/d/gqchzvnewt/gqchzvnewt.m3u8
+东京1122裡菜,https://fc.maa1804.com/g/nrvwhrshlo/nrvwhrshlo.m3u8
+东京1277美星,https://fc.maa1804.com/d/hdvkgfslpp/hdvkgfslpp.m3u8
+Tokyok1279铃木希美,https://fc.maa1804.com/c/pgizsuywfh/pgizsuywfh.m3u8
+东京1006有村碧,https://fc.maa1804.com/h/qnnzsmfoqp/qnnzsmfoqp.m3u8
+东京1008井上遥香,https://fc.maa1804.com/f/nekrtcpvem/nekrtcpvem.m3u8
+东京0966井上遥香,https://fc.maa1804.com/g/bogkqnaahi/bogkqnaahi.m3u8
+东京1075泽井,https://fc.maa1804.com/d/dltiaoucai/dltiaoucai.m3u8
+东京0992今村,https://fc.maa1804.com/e/uialbboadb/uialbboadb.m3u8
+东京0988有村碧,https://fc.maa1804.com/f/bdodaaiftc/bdodaaiftc.m3u8
+东京1146有村碧,https://fc.maa1804.com/g/uxxpevxydp/uxxpevxydp.m3u8
+Tokyon1153有村碧,https://fc.maa1804.com/c/benlntxpwm/benlntxpwm.m3u8
+东京1006有村碧,https://fc.maa1804.com/h/qnnzsmfoqp/qnnzsmfoqp.m3u8
+东京0998橘凉香,https://fc.maa1804.com/n/htjdsbdkcy/htjdsbdkcy.m3u8
+东京0986酒井,https://fc.maa1804.com/d/pilicllabs/pilicllabs.m3u8
+东京 Hot n0982巖崎,https://fc.maa1804.com/g/jobtusdlca/jobtusdlca.m3u8
+Tokyon0981藤原纱英,https://fc.maa1804.com/b/tedcshoscb/tedcshoscb.m3u8
+东京1046白石,https://fc.maa1804.com/n/qdbhccbuda/qdbhccbuda.m3u8
+加勒比051917北川,https://fc.maa1801.com/d/jestvkpubl/jestvkpubl.m3u8
+heyzo1601北川,https://fc.maa1801.com/d/mdsjynuabc/mdsjynuabc.m3u8
+加勒比100717北川,https://fc.maa1804.com/n/sfxuwjeqel/sfxuwjeqel.m3u8
+加勒比051318姬川,https://fc.maa1801.com/g/oplnohpsmh/oplnohpsmh.m3u8
+加勒比042117姬川,https://fc.maa1801.com/f/lpeelnsfwx/lpeelnsfwx.m3u8
+加勒比052317姬川,https://fc.maa1804.com/g/vphfeljbji/vphfeljbji.m3u8
+加勒比081216西川,https://fc.maa1801.com/f/kiodjzacdz/kiodjzacdz.m3u8
+加勒比090716西川,https://fc.maa1801.com/d/fhctzryess/fhctzryess.m3u8
